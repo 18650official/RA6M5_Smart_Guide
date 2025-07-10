@@ -1,0 +1,2440 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+                              ./src/hal_entry.o (__aeabi_dmul)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                              ./src/hal_entry.o (__aeabi_dadd)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                              ./src/hal_entry.o (__aeabi_d2uiz)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+                              ./ra/fsp/src/r_sci_uart/r_sci_uart.o (__aeabi_ldivmod)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-exit.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o (exit)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fwalk.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o) (__sread)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o)
+                              ./src/mk_rtt.o (vsnprintf)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memset.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o (memset)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-closer.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o) (_close_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reent.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-closer.o) (errno)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-impure.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o) (_impure_ptr)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lseekr.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o) (_lseek_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-readr.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o) (_read_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-writer.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o) (_write_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
+                              ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o (__errno)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-init.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o (__libc_init_array)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strcmp.o)
+                              ./src/hal_entry.o (strcmp)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+                              ./src/SEGGER_RTT.o (memcpy)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+                              ./src/SEGGER_RTT.o (strlen)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-freer.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reent.o) (_free_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o) (_malloc_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mlock.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-freer.o) (__malloc_lock)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o) (_svfprintf_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o) (_printf_i)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fflush.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o) (_fflush_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memmove.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o) (memmove)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-sbrkr.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o) (_sbrk_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memchr-stub.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o) (memchr)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reallocr.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
+D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-msizer.o)
+                              D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crti.o
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crti.o
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crti.o
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .debug_line_str
+                0x00000000       0xda D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .text          0x00000000        0x0 ./src/OLED.o
+ .data          0x00000000        0x0 ./src/OLED.o
+ .bss           0x00000000        0x0 ./src/OLED.o
+ .text.OLED_I2C_Init
+                0x00000000       0x14 ./src/OLED.o
+ .text.SDA_READ
+                0x00000000       0x20 ./src/OLED.o
+ .text.IIC_Ack  0x00000000       0x44 ./src/OLED.o
+ .text.IIC_NAck
+                0x00000000       0x44 ./src/OLED.o
+ .text.IIC_Read_Byte
+                0x00000000       0x6c ./src/OLED.o
+ .text.OLED_WriteCommand
+                0x00000000       0x30 ./src/OLED.o
+ .text.OLED_WriteData
+                0x00000000       0x30 ./src/OLED.o
+ .text.OLED_SetCursor
+                0x00000000       0x84 ./src/OLED.o
+ .text.OLED_Pow
+                0x00000000       0x18 ./src/OLED.o
+ .text.OLED_ShowSignedNum
+                0x00000000       0x98 ./src/OLED.o
+ .text.OLED_ShowHexNum
+                0x00000000       0x48 ./src/OLED.o
+ .text.OLED_ShowBinNum
+                0x00000000       0x58 ./src/OLED.o
+ .text          0x00000000        0x0 ./src/SEGGER_RTT.o
+ .data          0x00000000        0x0 ./src/SEGGER_RTT.o
+ .bss           0x00000000        0x0 ./src/SEGGER_RTT.o
+ .text._WriteNoCheck
+                0x00000000       0x38 ./src/SEGGER_RTT.o
+ .text._WriteBlocking
+                0x00000000       0x60 ./src/SEGGER_RTT.o
+ .rodata._DoInit.str1.4
+                0x00000000        0x9 ./src/SEGGER_RTT.o
+ .text._DoInit  0x00000000       0x70 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_ReadUpBufferNoLock
+                0x00000000       0xe0 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_ReadNoLock
+                0x00000000       0xcc ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_ReadUpBuffer
+                0x00000000       0x1c ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_Read
+                0x00000000       0x1c ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteWithOverwriteNoLock
+                0x00000000       0xc4 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteDownBufferNoLock
+                0x00000000       0x74 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteNoLock
+                0x00000000       0x8c ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteDownBuffer
+                0x00000000       0x34 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_Write
+                0x00000000       0x34 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteString
+                0x00000000       0x3c ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_PutCharSkipNoLock
+                0x00000000       0x40 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_PutCharSkip
+                0x00000000       0x60 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_PutChar
+                0x00000000       0x80 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_GetKey
+                0x00000000       0x30 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_WaitKey
+                0x00000000       0x2c ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasKey
+                0x00000000       0x20 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasData
+                0x00000000       0x18 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasDataUp
+                0x00000000       0x18 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_AllocDownBuffer
+                0x00000000       0x78 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_AllocUpBuffer
+                0x00000000       0x84 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_ConfigUpBuffer
+                0x00000000       0x78 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_ConfigDownBuffer
+                0x00000000       0x6c ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetNameUpBuffer
+                0x00000000       0x40 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetNameDownBuffer
+                0x00000000       0x40 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetFlagsUpBuffer
+                0x00000000       0x40 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetFlagsDownBuffer
+                0x00000000       0x40 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_Init
+                0x00000000        0x4 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetTerminal
+                0x00000000       0x90 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_TerminalOut
+                0x00000000      0x118 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_GetAvailWriteSpace
+                0x00000000       0x20 ./src/SEGGER_RTT.o
+ .text.SEGGER_RTT_GetBytesInBuffer
+                0x00000000       0x20 ./src/SEGGER_RTT.o
+ .rodata._aInitStr.0
+                0x00000000       0x11 ./src/SEGGER_RTT.o
+ .bss._ActiveTerminal
+                0x00000000        0x1 ./src/SEGGER_RTT.o
+ .bss._acDownBuffer
+                0x00000000       0x10 ./src/SEGGER_RTT.o
+ .bss._acUpBuffer
+                0x00000000      0x400 ./src/SEGGER_RTT.o
+ .bss._SEGGER_RTT
+                0x00000000       0xa8 ./src/SEGGER_RTT.o
+ .rodata._aTerminalId
+                0x00000000       0x10 ./src/SEGGER_RTT.o
+ .debug_info    0x00000000     0x21b8 ./src/SEGGER_RTT.o
+ .debug_abbrev  0x00000000      0x37d ./src/SEGGER_RTT.o
+ .debug_loclists
+                0x00000000     0x1cd1 ./src/SEGGER_RTT.o
+ .debug_aranges
+                0x00000000      0x128 ./src/SEGGER_RTT.o
+ .debug_rnglists
+                0x00000000      0x2c9 ./src/SEGGER_RTT.o
+ .debug_line    0x00000000     0x1724 ./src/SEGGER_RTT.o
+ .debug_str     0x00000000      0x6eb ./src/SEGGER_RTT.o
+ .comment       0x00000000       0x47 ./src/SEGGER_RTT.o
+ .debug_frame   0x00000000      0x43c ./src/SEGGER_RTT.o
+ .ARM.attributes
+                0x00000000       0x3a ./src/SEGGER_RTT.o
+ .text          0x00000000        0x0 ./src/SEGGER_RTT_printf.o
+ .data          0x00000000        0x0 ./src/SEGGER_RTT_printf.o
+ .bss           0x00000000        0x0 ./src/SEGGER_RTT_printf.o
+ .text._StoreChar
+                0x00000000       0x40 ./src/SEGGER_RTT_printf.o
+ .text._PrintUnsigned
+                0x00000000       0xf0 ./src/SEGGER_RTT_printf.o
+ .rodata.SEGGER_RTT_vprintf.str1.4
+                0x00000000        0x7 ./src/SEGGER_RTT_printf.o
+ .text.SEGGER_RTT_vprintf
+                0x00000000      0x608 ./src/SEGGER_RTT_printf.o
+ .text.SEGGER_RTT_printf
+                0x00000000       0x20 ./src/SEGGER_RTT_printf.o
+ .rodata._aV2C.0
+                0x00000000       0x10 ./src/SEGGER_RTT_printf.o
+ .debug_info    0x00000000      0xa1a ./src/SEGGER_RTT_printf.o
+ .debug_abbrev  0x00000000      0x2b8 ./src/SEGGER_RTT_printf.o
+ .debug_loclists
+                0x00000000     0x143c ./src/SEGGER_RTT_printf.o
+ .debug_aranges
+                0x00000000       0x38 ./src/SEGGER_RTT_printf.o
+ .debug_rnglists
+                0x00000000      0x11a ./src/SEGGER_RTT_printf.o
+ .debug_line    0x00000000      0xbf2 ./src/SEGGER_RTT_printf.o
+ .debug_str     0x00000000      0x312 ./src/SEGGER_RTT_printf.o
+ .comment       0x00000000       0x47 ./src/SEGGER_RTT_printf.o
+ .debug_frame   0x00000000       0xb8 ./src/SEGGER_RTT_printf.o
+ .ARM.attributes
+                0x00000000       0x3a ./src/SEGGER_RTT_printf.o
+ .text          0x00000000        0x0 ./src/dmx_tof400c.o
+ .data          0x00000000        0x0 ./src/dmx_tof400c.o
+ .bss           0x00000000        0x0 ./src/dmx_tof400c.o
+ .text          0x00000000        0x0 ./src/hal_entry.o
+ .data          0x00000000        0x0 ./src/hal_entry.o
+ .bss           0x00000000        0x0 ./src/hal_entry.o
+ .text.get_distance
+                0x00000000       0x1c ./src/hal_entry.o
+ .text.get_light
+                0x00000000       0x10 ./src/hal_entry.o
+ .text.loop     0x00000000       0x44 ./src/hal_entry.o
+ .text          0x00000000        0x0 ./src/mk_pinctrl.o
+ .data          0x00000000        0x0 ./src/mk_pinctrl.o
+ .bss           0x00000000        0x0 ./src/mk_pinctrl.o
+ .text.delayMicroseconds
+                0x00000000        0x8 ./src/mk_pinctrl.o
+ .text          0x00000000        0x0 ./src/mk_rtt.o
+ .data          0x00000000        0x0 ./src/mk_rtt.o
+ .bss           0x00000000        0x0 ./src/mk_rtt.o
+ .text.dbg_logi
+                0x00000000       0x28 ./src/mk_rtt.o
+ .text.uart6_send_str
+                0x00000000       0x34 ./src/mk_rtt.o
+ .text          0x00000000        0x0 ./src/syscalls.o
+ .data          0x00000000        0x0 ./src/syscalls.o
+ .bss           0x00000000        0x0 ./src/syscalls.o
+ .text._kill    0x00000000        0x8 ./src/syscalls.o
+ .text._getpid  0x00000000        0x4 ./src/syscalls.o
+ .text._exit    0x00000000        0x4 ./src/syscalls.o
+ .debug_info    0x00000000       0xee ./src/syscalls.o
+ .debug_abbrev  0x00000000       0xb7 ./src/syscalls.o
+ .debug_loclists
+                0x00000000       0x34 ./src/syscalls.o
+ .debug_aranges
+                0x00000000       0x30 ./src/syscalls.o
+ .debug_rnglists
+                0x00000000       0x1f ./src/syscalls.o
+ .debug_line    0x00000000       0xe2 ./src/syscalls.o
+ .debug_str     0x00000000      0x1c0 ./src/syscalls.o
+ .comment       0x00000000       0x47 ./src/syscalls.o
+ .debug_frame   0x00000000       0x40 ./src/syscalls.o
+ .ARM.attributes
+                0x00000000       0x3a ./src/syscalls.o
+ .text          0x00000000        0x0 ./ra_gen/common_data.o
+ .data          0x00000000        0x0 ./ra_gen/common_data.o
+ .bss           0x00000000        0x0 ./ra_gen/common_data.o
+ .text.g_common_init
+                0x00000000        0x4 ./ra_gen/common_data.o
+ .text          0x00000000        0x0 ./ra_gen/hal_data.o
+ .data          0x00000000        0x0 ./ra_gen/hal_data.o
+ .bss           0x00000000        0x0 ./ra_gen/hal_data.o
+ .text.g_hal_init
+                0x00000000        0x4 ./ra_gen/hal_data.o
+ .rodata.g_uart6
+                0x00000000        0xc ./ra_gen/hal_data.o
+ .rodata.g_timer0
+                0x00000000        0xc ./ra_gen/hal_data.o
+ .rodata.g_adc0
+                0x00000000       0x10 ./ra_gen/hal_data.o
+ .rodata.g_uart0
+                0x00000000        0xc ./ra_gen/hal_data.o
+ .text          0x00000000        0x0 ./ra_gen/main.o
+ .data          0x00000000        0x0 ./ra_gen/main.o
+ .bss           0x00000000        0x0 ./ra_gen/main.o
+ .text          0x00000000        0x0 ./ra_gen/pin_data.o
+ .data          0x00000000        0x0 ./ra_gen/pin_data.o
+ .bss           0x00000000        0x0 ./ra_gen/pin_data.o
+ .text          0x00000000        0x0 ./ra_gen/vector_data.o
+ .data          0x00000000        0x0 ./ra_gen/vector_data.o
+ .bss           0x00000000        0x0 ./ra_gen/vector_data.o
+ .text          0x00000000        0x0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .data          0x00000000        0x0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Close
+                0x00000000       0xcc ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Read
+                0x00000000        0xc ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_CallbackSet
+                0x00000000       0x10 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_BaudSet
+                0x00000000       0x68 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_InfoGet
+                0x00000000        0xc ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Abort
+                0x00000000       0x3c ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_ReadStop
+                0x00000000       0x14 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_ReceiveSuspend
+                0x00000000        0x4 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_ReceiveResume
+                0x00000000        0x4 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_BaudCalculate
+                0x00000000      0x1d0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .rodata.g_uart_on_sci
+                0x00000000       0x2c ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .rodata.g_div_coefficient
+                0x00000000       0x1a ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .rodata.g_async_baud
+                0x00000000        0xd ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text          0x00000000        0x0 ./ra/fsp/src/r_ioport/r_ioport.o
+ .data          0x00000000        0x0 ./ra/fsp/src/r_ioport/r_ioport.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text          0x00000000        0x0 ./ra/fsp/src/r_gpt/r_gpt.o
+ .data          0x00000000        0x0 ./ra/fsp/src/r_gpt/r_gpt.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_Stop
+                0x00000000        0xc ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_Reset
+                0x00000000        0xc ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_Enable
+                0x00000000       0x38 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_Disable
+                0x00000000       0x28 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_PeriodSet
+                0x00000000       0x1c ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_DutyCycleSet
+                0x00000000        0x4 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_CompareMatchSet
+                0x00000000       0x10 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_StatusGet
+                0x00000000       0x18 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_CallbackSet
+                0x00000000       0x10 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.r_gpt_ccmp_common_isr
+                0x00000000       0xe0 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_InfoGet
+                0x00000000       0x44 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_Close
+                0x00000000       0xa4 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_CounterSet
+                0x00000000        0xc ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_OutputEnable
+                0x00000000       0x18 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_OutputDisable
+                0x00000000       0x18 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_AdcTriggerSet
+                0x00000000       0x10 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_PwmOutputDelaySet
+                0x00000000        0x4 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_PwmOutputDelayInitialize
+                0x00000000        0x4 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.gpt_capture_compare_a_isr
+                0x00000000        0x8 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.gpt_capture_compare_b_isr
+                0x00000000        0x8 ./ra/fsp/src/r_gpt/r_gpt.o
+ .rodata.g_timer_on_gpt
+                0x00000000       0x34 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text          0x00000000        0x0 ./ra/fsp/src/r_adc/r_adc.o
+ .data          0x00000000        0x0 ./ra/fsp/src/r_adc/r_adc.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_CallbackSet
+                0x00000000       0x10 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_ScanGroupStart
+                0x00000000        0x4 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_ScanStop
+                0x00000000        0xc ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_StatusGet
+                0x00000000       0x10 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_Read32
+                0x00000000       0x1c ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_Calibrate
+                0x00000000        0x4 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_OffsetSet
+                0x00000000        0x4 ./ra/fsp/src/r_adc/r_adc.o
+ .text.r_adc_call_callback
+                0x00000000       0x54 ./ra/fsp/src/r_adc/r_adc.o
+ .text.r_adc_scan_end_common_isr
+                0x00000000       0x5c ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_InfoGet
+                0x00000000       0x7c ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_Close
+                0x00000000       0xf4 ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_SampleStateCountSet
+                0x00000000       0x14 ./ra/fsp/src/r_adc/r_adc.o
+ .text.adc_scan_end_isr
+                0x00000000        0x8 ./ra/fsp/src/r_adc/r_adc.o
+ .text.adc_scan_end_b_isr
+                0x00000000        0x8 ./ra/fsp/src/r_adc/r_adc.o
+ .text.adc_window_compare_isr
+                0x00000000      0x120 ./ra/fsp/src/r_adc/r_adc.o
+ .rodata.g_adc_on_adc
+                0x00000000       0x34 ./ra/fsp/src/r_adc/r_adc.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_operating_mode_set
+                0x00000000       0x60 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_prepare_pll
+                0x00000000       0x14 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_dividers_set
+                0x00000000        0xc ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_set
+                0x00000000       0xe8 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_SubClockStabilizeWait
+                0x00000000        0x8 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_OctaclkUpdate
+                0x00000000       0x50 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_SourceClockHzGet
+                0x00000000        0xc ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.R_FSP_VersionGet
+                0x00000000        0xc ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.__assert_func
+                0x00000000        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text.R_BSP_GroupIrqWrite
+                0x00000000       0x10 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_info    0x00000000       0x7a ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_abbrev  0x00000000       0x26 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_aranges
+                0x00000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_line    0x00000000       0x46 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_str     0x00000000      0x1c6 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .comment       0x00000000       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .ARM.attributes
+                0x00000000       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .debug_info    0x00000000       0x7a ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .debug_abbrev  0x00000000       0x26 ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .debug_aranges
+                0x00000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .debug_line    0x00000000       0x44 ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .debug_str     0x00000000      0x1c4 ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .comment       0x00000000       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .ARM.attributes
+                0x00000000       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .rodata.g_interrupt_event_link_select
+                0x00000000       0x12 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .debug_info    0x00000000       0x7a ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .debug_abbrev  0x00000000       0x26 ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .debug_aranges
+                0x00000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .debug_line    0x00000000       0x45 ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .debug_str     0x00000000      0x1c5 ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .comment       0x00000000       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .ARM.attributes
+                0x00000000       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .debug_info    0x00000000       0x7a ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .debug_abbrev  0x00000000       0x26 ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .debug_aranges
+                0x00000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .debug_line    0x00000000       0x46 ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .debug_str     0x00000000      0x1c6 ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .comment       0x00000000       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .ARM.attributes
+                0x00000000       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_info    0x00000000       0x7a ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_abbrev  0x00000000       0x26 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_aranges
+                0x00000000       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_line    0x00000000       0x49 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_str     0x00000000      0x1c9 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .comment       0x00000000       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .ARM.attributes
+                0x00000000       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .bss.g_heap    0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .text          0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .data          0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .bss           0x00000000        0x0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text.R_BSP_WarmStart
+                0x00000000        0x4 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x00000000       0xa0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_line_str
+                0x00000000       0xcd D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x00000000       0x44 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000000       0x26 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .text.__udivmoddi4
+                0x00000000      0x34c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab.text.__udivmoddi4
+                0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx.text.__udivmoddi4
+                0x00000000        0x8 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_line_str
+                0x00000000       0xd1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x26 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x40 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa8 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x26 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xbc D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-init.o)
+ .debug_frame   0x00000000       0x2c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strcmp.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strcmp.o)
+ .ARM.extab     0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strcmp.o)
+ .ARM.exidx     0x00000000        0x8 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strcmp.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000       0x10 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+ .ARM.extab     0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+ .ARM.exidx     0x00000000        0x8 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+ .debug_line_str
+                0x00000000       0xef D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+ .debug_frame   0x00000000       0x20 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strlen.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xf4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x100 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memmove.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memchr-stub.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memchr-stub.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memchr-stub.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reallocr.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reallocr.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reallocr.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-msizer.o)
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-msizer.o)
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-msizer.o)
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .text          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtn.o
+ .data          0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtn.o
+ .bss           0x00000000        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtn.o
+ .init          0x00000000        0x8 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtn.o
+ .fini          0x00000000        0x8 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtn.o
+ .ARM.attributes
+                0x00000000       0x26 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00080000         xrw
+FLASH            0x00000000         0x00200000         xr
+DATA_FLASH       0x08000000         0x00002000         xr
+QSPI_FLASH       0x60000000         0x04000000         xr
+OSPI0_CS0        0x68000000         0x08000000         xrw
+OSPI0_CS1        0x70000000         0x10000000         xr
+OPTION_SETTING_OFS0 0x0100a100         0x00000004         r
+OPTION_SETTING_DUALSEL 0x0100a110         0x00000004         r
+OPTION_SETTING_OFS1 0x0100a180         0x00000004         r
+OPTION_SETTING_BANKSEL 0x0100a190         0x00000004         r
+OPTION_SETTING_BPS 0x0100a1c0         0x00000010         r
+OPTION_SETTING_PBPS 0x0100a1e0         0x00000010         r
+OPTION_SETTING_OFS1_SEC 0x0100a200         0x00000004         r
+OPTION_SETTING_BANKSEL_SEC 0x0100a210         0x00000004         r
+OPTION_SETTING_BPS_SEC 0x0100a240         0x00000010         r
+OPTION_SETTING_PBPS_SEC 0x0100a260         0x00000010         r
+OPTION_SETTING_OFS1_SEL 0x0100a280         0x00000004         r
+OPTION_SETTING_BANKSEL_SEL 0x0100a290         0x00000004         r
+OPTION_SETTING_BPS_SEL 0x0100a2c0         0x00000010         r
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crti.o
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+START GROUP
+LOAD ./src/OLED.o
+LOAD ./src/SEGGER_RTT.o
+LOAD ./src/SEGGER_RTT_printf.o
+LOAD ./src/dmx_tof400c.o
+LOAD ./src/hal_entry.o
+LOAD ./src/mk_pinctrl.o
+LOAD ./src/mk_rtt.o
+LOAD ./src/syscalls.o
+LOAD ./ra_gen/common_data.o
+LOAD ./ra_gen/hal_data.o
+LOAD ./ra_gen/main.o
+LOAD ./ra_gen/pin_data.o
+LOAD ./ra_gen/vector_data.o
+LOAD ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+LOAD ./ra/fsp/src/r_ioport/r_ioport.o
+LOAD ./ra/fsp/src/r_gpt/r_gpt.o
+LOAD ./ra/fsp/src/r_adc/r_adc.o
+LOAD ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_guard.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_ipc.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_macl.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_sdram.o
+LOAD ./ra/fsp/src/bsp/mcu/all/bsp_security.o
+LOAD ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+LOAD ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+END GROUP
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libstdc++_nano.a
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a
+START GROUP
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc_nano.a
+END GROUP
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtend.o
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x20000000                        RAM_START = 0x20000000
+                0x00080000                        RAM_LENGTH = 0x80000
+                0x00000000                        FLASH_START = 0x0
+                0x00200000                        FLASH_LENGTH = 0x200000
+                0x08000000                        DATA_FLASH_START = 0x8000000
+                0x00002000                        DATA_FLASH_LENGTH = 0x2000
+                0x60000000                        QSPI_FLASH_START = 0x60000000
+                0x04000000                        QSPI_FLASH_LENGTH = 0x4000000
+                0x68000000                        OSPI0_CS0_START = 0x68000000
+                0x08000000                        OSPI0_CS0_LENGTH = 0x8000000
+                0x70000000                        OSPI0_CS1_START = 0x70000000
+                0x10000000                        OSPI0_CS1_LENGTH = 0x10000000
+                0x0100a100                        OPTION_SETTING_OFS0_START = 0x100a100
+                0x00000004                        OPTION_SETTING_OFS0_LENGTH = 0x4
+                0x0100a110                        OPTION_SETTING_DUALSEL_START = 0x100a110
+                0x00000004                        OPTION_SETTING_DUALSEL_LENGTH = 0x4
+                0x0100a180                        OPTION_SETTING_OFS1_START = 0x100a180
+                0x00000004                        OPTION_SETTING_OFS1_LENGTH = 0x4
+                0x0100a190                        OPTION_SETTING_BANKSEL_START = 0x100a190
+                0x00000004                        OPTION_SETTING_BANKSEL_LENGTH = 0x4
+                0x0100a1c0                        OPTION_SETTING_BPS_START = 0x100a1c0
+                0x00000010                        OPTION_SETTING_BPS_LENGTH = 0x10
+                0x0100a1e0                        OPTION_SETTING_PBPS_START = 0x100a1e0
+                0x00000010                        OPTION_SETTING_PBPS_LENGTH = 0x10
+                0x0100a200                        OPTION_SETTING_OFS1_SEC_START = 0x100a200
+                0x00000004                        OPTION_SETTING_OFS1_SEC_LENGTH = 0x4
+                0x0100a210                        OPTION_SETTING_BANKSEL_SEC_START = 0x100a210
+                0x00000004                        OPTION_SETTING_BANKSEL_SEC_LENGTH = 0x4
+                0x0100a240                        OPTION_SETTING_BPS_SEC_START = 0x100a240
+                0x00000010                        OPTION_SETTING_BPS_SEC_LENGTH = 0x10
+                0x0100a260                        OPTION_SETTING_PBPS_SEC_START = 0x100a260
+                0x00000010                        OPTION_SETTING_PBPS_SEC_LENGTH = 0x10
+                0x0100a280                        OPTION_SETTING_OFS1_SEL_START = 0x100a280
+                0x00000004                        OPTION_SETTING_OFS1_SEL_LENGTH = 0x4
+                0x0100a290                        OPTION_SETTING_BANKSEL_SEL_START = 0x100a290
+                0x00000004                        OPTION_SETTING_BANKSEL_SEL_LENGTH = 0x4
+                0x0100a2c0                        OPTION_SETTING_BPS_SEL_START = 0x100a2c0
+                0x00000010                        OPTION_SETTING_BPS_SEL_LENGTH = 0x10
+START GROUP
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc.a
+LOAD D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a
+END GROUP
+
+.qspi_flash.startof
+                0x60000000        0x0
+                0x60000000                        __ddsc_QSPI_FLASH_START = .
+
+.ospi0_cs0.startof
+                0x68000000        0x0
+                0x68000000                        __ddsc_OSPI0_CS0_START = .
+
+__ospi0_cs0_from_qspi_flash$$
+                0x68000000        0x0 load address 0x60000000
+                0x68000000                        __ospi0_cs0_from_qspi_flash$$Base = .
+                0x60000000                        __ospi0_cs0_from_qspi_flash$$Load = LOADADDR (__ospi0_cs0_from_qspi_flash$$)
+ *(.ospi0_cs0_from_qspi_flash)
+ *(.ospi0_cs0_code_from_qspi_flash)
+                0x68000000                        __ospi0_cs0_from_qspi_flash$$Limit = .
+
+.ram.startof    0x20000000        0x0
+                0x20000000                        __ddsc_RAM_START = .
+
+__ram_dtc_vector$$
+                0x20000000        0x0
+                0x20000000                        __ram_dtc_vector$$Base = .
+ *(.fsp_dtc_vector_table)
+                0x20000000                        __ram_dtc_vector$$Limit = .
+
+__ram_from_qspi_flash$$
+                0x20000000        0x0 load address 0x60000000
+                0x20000000                        __ram_from_qspi_flash$$Base = .
+                0x60000000                        __ram_from_qspi_flash$$Load = LOADADDR (__ram_from_qspi_flash$$)
+ *(.ram_from_qspi_flash)
+ *(.ram_code_from_qspi_flash)
+                0x20000000                        __ram_from_qspi_flash$$Limit = .
+
+__qspi_flash_readonly$$
+                0x60000000        0x0
+                0x60000000                        __qspi_flash_readonly$$Base = .
+ *(.qspi_flash)
+ *(.qspi_flash_code)
+                0x60000000                        __qspi_flash_readonly$$Limit = .
+
+__qspi_flash_noinit$$
+                0x60000000        0x0
+                0x60000000                        __qspi_flash_noinit$$Base = .
+ *(.qspi_flash_noinit)
+                0x60000000                        __qspi_flash_noinit$$Limit = .
+
+.qspi_flash.endof
+                0x60000000        0x0
+                0x60000000                        __ddsc_QSPI_FLASH_END = .
+
+.ospi0_cs1.startof
+                0x70000000        0x0
+                0x70000000                        __ddsc_OSPI0_CS1_START = .
+
+__ospi0_cs0_from_ospi0_cs1$$
+                0x68000000        0x0 load address 0x70000000
+                0x68000000                        __ospi0_cs0_from_ospi0_cs1$$Base = .
+                0x70000000                        __ospi0_cs0_from_ospi0_cs1$$Load = LOADADDR (__ospi0_cs0_from_ospi0_cs1$$)
+ *(.ospi0_cs0_from_ospi0_cs1)
+ *(.ospi0_cs0_code_from_ospi0_cs1)
+                0x68000000                        __ospi0_cs0_from_ospi0_cs1$$Limit = .
+
+__ram_from_ospi0_cs1$$
+                0x20000000        0x0 load address 0x70000000
+                0x20000000                        __ram_from_ospi0_cs1$$Base = .
+                0x70000000                        __ram_from_ospi0_cs1$$Load = LOADADDR (__ram_from_ospi0_cs1$$)
+ *(.ram_from_ospi0_cs1)
+ *(.ram_code_from_ospi0_cs1)
+                0x20000000                        __ram_from_ospi0_cs1$$Limit = .
+
+__ospi0_cs1_readonly$$
+                0x70000000        0x0
+                0x70000000                        __ospi0_cs1_readonly$$Base = .
+ *(.ospi0_cs1)
+ *(.ospi0_cs1_code)
+                0x70000000                        __ospi0_cs1_readonly$$Limit = .
+
+__ospi0_cs1_noinit$$
+                0x70000000        0x0
+                0x70000000                        __ospi0_cs1_noinit$$Base = .
+ *(.ospi0_cs1_noinit)
+                0x70000000                        __ospi0_cs1_noinit$$Limit = .
+
+.ospi0_cs1.endof
+                0x70000000        0x0
+                0x70000000                        __ddsc_OSPI0_CS1_END = .
+
+.data_flash.startof
+                0x08000000        0x0
+                0x08000000                        __ddsc_DATA_FLASH_START = .
+
+__ospi0_cs0_from_data_flash$$
+                0x68000000        0x0 load address 0x08000000
+                0x68000000                        __ospi0_cs0_from_data_flash$$Base = .
+                0x08000000                        __ospi0_cs0_from_data_flash$$Load = LOADADDR (__ospi0_cs0_from_data_flash$$)
+ *(.ospi0_cs0_from_data_flash)
+ *(.ospi0_cs0_code_from_data_flash)
+                0x68000000                        __ospi0_cs0_from_data_flash$$Limit = .
+
+__ram_from_data_flash$$
+                0x20000000        0x0 load address 0x08000000
+                0x20000000                        __ram_from_data_flash$$Base = .
+                0x08000000                        __ram_from_data_flash$$Load = LOADADDR (__ram_from_data_flash$$)
+ *(.ram_from_data_flash)
+ *(.ram_code_from_data_flash)
+                0x20000000                        __ram_from_data_flash$$Limit = .
+
+__data_flash_readonly$$
+                0x08000000        0x0
+                0x08000000                        __data_flash_readonly$$Base = .
+ *(.data_flash)
+ *(.data_flash_code)
+                0x08000000                        __data_flash_readonly$$Limit = .
+
+__data_flash_noinit$$
+                0x08000000        0x0
+                0x08000000                        __data_flash_noinit$$Base = .
+ *(.data_flash_noinit)
+                0x08000000                        __data_flash_noinit$$Limit = .
+
+.data_flash.endof
+                0x08000000        0x0
+                0x08000000                        __ddsc_DATA_FLASH_END = .
+
+.flash.startof  0x00000000        0x0
+                0x00000000                        __ddsc_FLASH_START = .
+
+__flash_vectors$$
+                0x00000000       0x64
+                0x00000000                        __flash_vectors$$Base = .
+                0x00000000                        _VECTORS = .
+ *(.fixed_vectors)
+ .fixed_vectors
+                0x00000000       0x40 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x00000000                __Vectors
+ *(.application_vectors)
+ .application_vectors
+                0x00000040       0x24 ./ra_gen/vector_data.o
+                0x00000040                g_vector_table
+                0x00000064                        __flash_vectors$$Limit = .
+
+__flash_noinit$$
+                0x00000064        0x0
+                0x00000064                        __flash_noinit$$Base = .
+ *(.flash_noinit)
+                0x00000064                        __flash_noinit$$Limit = .
+
+__ospi0_cs0_from_flash$$
+                0x68000000        0x0 load address 0x00000064
+                0x68000000                        __ospi0_cs0_from_flash$$Base = .
+                0x00000064                        __ospi0_cs0_from_flash$$Load = LOADADDR (__ospi0_cs0_from_flash$$)
+ *(.ospi0_cs0_from_flash)
+ *(.ospi0_cs0_code_from_flash)
+                0x68000000                        __ospi0_cs0_from_flash$$Limit = .
+
+__ospi0_cs0_noinit_nocache$$
+                0x68000000        0x0 load address 0x00000080
+                0x68000000                        __ospi0_cs0_noinit_nocache$$Base = .
+ *(.ospi0_cs0_noinit_nocache)
+                0x68000000                        __ospi0_cs0_noinit_nocache$$Limit = .
+
+__ospi0_cs0_zero_nocache$$
+                0x68000000        0x0 load address 0x00000064
+                0x68000000                        __ospi0_cs0_zero_nocache$$Base = .
+ *(.ospi0_cs0_nocache)
+                0x68000000                        . = ALIGN (0x20)
+                0x68000000                        __ospi0_cs0_zero_nocache$$Limit = .
+
+__ospi0_cs0_noinit$$
+                0x68000000        0x0 load address 0x00000064
+                0x68000000                        __ospi0_cs0_noinit$$Base = .
+ *(.ospi0_cs0_noinit)
+                0x68000000                        __ospi0_cs0_noinit$$Limit = .
+
+__ospi0_cs0_zero$$
+                0x68000000        0x0 load address 0x00000064
+                0x68000000                        __ospi0_cs0_zero$$Base = .
+ *(.ospi0_cs0)
+                0x68000000                        __ospi0_cs0_zero$$Limit = .
+
+.ospi0_cs0.endof
+                0x68000000        0x0
+                0x68000000                        __ddsc_OSPI0_CS0_END = .
+
+__ram_from_flash$$
+                0x20000000       0xe4 load address 0x00000064
+                0x20000000                        __ram_from_flash$$Base = .
+                0x00000064                        __ram_from_flash$$Load = LOADADDR (__ram_from_flash$$)
+ *(.ram_from_flash)
+ *(.ram_code_from_flash)
+ *(.data*)
+ .data.VL51L1X_CONFIGURATION
+                0x20000000       0x87 ./src/dmx_tof400c.o
+                0x20000000                VL51L1X_CONFIGURATION
+ *fill*         0x20000087        0x1 
+ .data.distance
+                0x20000088        0x4 ./src/hal_entry.o
+                0x20000088                distance
+ .data.g_uart6_baud_setting
+                0x2000008c        0x4 ./ra_gen/hal_data.o
+                0x2000008c                g_uart6_baud_setting
+ .data.g_uart0_baud_setting
+                0x20000090        0x4 ./ra_gen/hal_data.o
+                0x20000090                g_uart0_baud_setting
+ .data._impure_ptr
+                0x20000094        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-impure.o)
+                0x20000094                _impure_ptr
+ .data._impure_data
+                0x20000098       0x4c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-impure.o)
+                0x20000098                _impure_data
+ *(vtable)
+                0x200000e4                        __ram_from_flash$$Limit = .
+
+.tm_clone_table
+                0x200000e4        0x0 load address 0x00000148
+ .tm_clone_table
+                0x200000e4        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x200000e4        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtend.o
+
+.igot.plt       0x200000e4        0x0 load address 0x00000148
+ .igot.plt      0x200000e4        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+__ram_noinit_nocache$$
+                0x20000100        0x0 load address 0x00000160
+                0x20000100                        __ram_noinit_nocache$$Base = .
+ *(.ram_noinit_nocache)
+                0x20000100                        __ram_noinit_nocache$$Limit = .
+
+__ram_zero_nocache$$
+                0x200000e4       0x1c load address 0x00000148
+                0x200000e4                        __ram_zero_nocache$$Base = .
+ *(.ram_nocache)
+                0x20000100                        . = ALIGN (0x20)
+ *fill*         0x200000e4       0x1c 
+                0x20000100                        __ram_zero_nocache$$Limit = .
+
+__ram_noinit$$  0x20000100      0x41c load address 0x00000148
+                0x20000100                        __ram_noinit$$Base = .
+ *(.bss.g_heap)
+ *(.bss.g_main_stack)
+ .bss.g_main_stack
+                0x20000100      0x400 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x20000100                g_main_stack
+ *(.ram_noinit)
+ .ram_noinit    0x20000500       0x1c ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ *(.noinit)
+                0x2000051c                        __ram_noinit$$Limit = .
+
+__ram_zero$$    0x20000520      0x34c load address 0x00000148
+                0x20000520                        __ram_zero$$Base = .
+ *(.ram)
+ *(.bss*)
+ .bss.completed.1
+                0x20000520        0x1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ *fill*         0x20000521        0x3 
+ .bss.object.0  0x20000524       0x18 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss.queue_index.0
+                0x2000053c        0x4 ./src/hal_entry.o
+ .bss.t.1       0x20000540        0x4 ./src/hal_entry.o
+ .bss.original_time.2
+                0x20000544        0x4 ./src/hal_entry.o
+ .bss.is_btn_press.3
+                0x20000548        0x1 ./src/hal_entry.o
+ *fill*         0x20000549        0x3 
+ .bss.t.4       0x2000054c        0x4 ./src/hal_entry.o
+ .bss.manual_mode
+                0x20000550        0x1 ./src/hal_entry.o
+                0x20000550                manual_mode
+ .bss.led_state
+                0x20000551        0x1 ./src/hal_entry.o
+                0x20000551                led_state
+ *fill*         0x20000552        0x2 
+ .bss.light_value
+                0x20000554        0x4 ./src/hal_entry.o
+                0x20000554                light_value
+ .bss.is_approach
+                0x20000558        0x1 ./src/hal_entry.o
+                0x20000558                is_approach
+ *fill*         0x20000559        0x3 
+ .bss.key_value
+                0x2000055c        0x4 ./src/hal_entry.o
+                0x2000055c                key_value
+ .bss.distance_queue
+                0x20000560       0x14 ./src/hal_entry.o
+                0x20000560                distance_queue
+ .bss.tof400c_err
+                0x20000574        0x1 ./src/hal_entry.o
+                0x20000574                tof400c_err
+ *fill*         0x20000575        0x3 
+ .bss.millis_count
+                0x20000578        0x4 ./src/mk_pinctrl.o
+                0x20000578                millis_count
+ .bss.pRxPacket.0
+                0x2000057c        0x1 ./src/mk_rtt.o
+ .bss.RxState.1
+                0x2000057d        0x1 ./src/mk_rtt.o
+ .bss.g_uart6_tx_busy
+                0x2000057e        0x1 ./src/mk_rtt.o
+                0x2000057e                g_uart6_tx_busy
+ .bss.g_uart0_tx_busy
+                0x2000057f        0x1 ./src/mk_rtt.o
+                0x2000057f                g_uart0_tx_busy
+ .bss.Serial_RxFlag
+                0x20000580        0x1 ./src/mk_rtt.o
+                0x20000580                Serial_RxFlag
+ *fill*         0x20000581        0x3 
+ .bss.Serial_RxPacket
+                0x20000584       0x80 ./src/mk_rtt.o
+                0x20000584                Serial_RxPacket
+ .bss.g_ioport_ctrl
+                0x20000604        0x8 ./ra_gen/common_data.o
+                0x20000604                g_ioport_ctrl
+ .bss.g_uart6_ctrl
+                0x2000060c       0x30 ./ra_gen/hal_data.o
+                0x2000060c                g_uart6_ctrl
+ .bss.g_timer0_ctrl
+                0x2000063c       0x20 ./ra_gen/hal_data.o
+                0x2000063c                g_timer0_ctrl
+ .bss.g_adc0_ctrl
+                0x2000065c       0x24 ./ra_gen/hal_data.o
+                0x2000065c                g_adc0_ctrl
+ .bss.g_uart0_ctrl
+                0x20000680       0x30 ./ra_gen/hal_data.o
+                0x20000680                g_uart0_ctrl
+ .bss.g_bsp_group_irq_sources
+                0x200006b0       0x40 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+                0x200006b0                g_bsp_group_irq_sources
+ .bss.g_protect_pfswe_counter
+                0x200006f0        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+                0x200006f0                g_protect_pfswe_counter
+ .bss.gp_renesas_isr_context
+                0x200006f4       0x24 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x200006f4                gp_renesas_isr_context
+ .bss.g_protect_counters
+                0x20000718        0x8 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x20000718                g_protect_counters
+ .bss.SystemCoreClock
+                0x20000720        0x4 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x20000720                SystemCoreClock
+ .bss.__sf      0x20000724      0x138 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+                0x20000724                __sf
+ .bss.errno     0x2000085c        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reent.o)
+                0x2000085c                errno
+ .bss.__lock___malloc_recursive_mutex
+                0x20000860        0x1 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+                0x20000860                __lock___malloc_recursive_mutex
+ *fill*         0x20000861        0x3 
+ .bss.__malloc_sbrk_start
+                0x20000864        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+                0x20000864                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x20000868        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+                0x20000868                __malloc_free_list
+                0x2000086c                        __ram_zero$$Limit = .
+
+__ram_thread_stack$$
+                0x20000870        0x0 load address 0x00000148
+                0x20000870                        __ram_thread_stack$$Base = .
+ *(.stack?*)
+                0x20000870                        __ram_thread_stack$$Limit = .
+
+.ram.endof      0x20002000        0x0
+                0x20002000                        __ddsc_RAM_END = .
+
+.ram.flat_nsc   0x20002000        0x0
+                0x20002000                        __ddsc_RAM_NSC = .
+
+__flash_readonly$$
+                0x00000148     0x4374
+                0x00000148                        __flash_readonly$$Base = .
+ *(.flash)
+ *(.flash_code)
+ *(.text*)
+ .text.deregister_tm_clones
+                0x00000148       0x1c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x00000164       0x28 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x0000018c       0x28 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x000001b4       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.IIC_Start
+                0x000001d8       0x58 ./src/OLED.o
+                0x000001d8                IIC_Start
+ .text.IIC_Stop
+                0x00000230       0x40 ./src/OLED.o
+                0x00000230                IIC_Stop
+ .text.IIC_Wait_Ack
+                0x00000270       0x68 ./src/OLED.o
+                0x00000270                IIC_Wait_Ack
+ .text.IIC_Send_Byte
+                0x000002d8       0x60 ./src/OLED.o
+                0x000002d8                IIC_Send_Byte
+ .text.OLED_Clear
+                0x00000338       0xb4 ./src/OLED.o
+                0x00000338                OLED_Clear
+ .text.OLED_ShowChar
+                0x000003ec      0x198 ./src/OLED.o
+                0x000003ec                OLED_ShowChar
+ .text.OLED_ShowString
+                0x00000584       0x28 ./src/OLED.o
+                0x00000584                OLED_ShowString
+ .text.OLED_ShowNum
+                0x000005ac       0x78 ./src/OLED.o
+                0x000005ac                OLED_ShowNum
+ .text.OLED_Init
+                0x00000624      0x390 ./src/OLED.o
+                0x00000624                OLED_Init
+ .text.TOF400C_Start
+                0x000009b4       0x34 ./src/dmx_tof400c.o
+ .text.TOF400C_Stop
+                0x000009e8       0x38 ./src/dmx_tof400c.o
+ .text.TOF400C_Read_Char
+                0x00000a20       0xa8 ./src/dmx_tof400c.o
+ .text.TOF400C_Write_Char
+                0x00000ac8       0x80 ./src/dmx_tof400c.o
+ .text.TOF400C_Read_Datas
+                0x00000b48       0x54 ./src/dmx_tof400c.o
+ .text.Init_TOF400C
+                0x00000b9c       0xec ./src/dmx_tof400c.o
+                0x00000b9c                Init_TOF400C
+ .text.Get_Distance_TOF400C
+                0x00000c88       0x78 ./src/dmx_tof400c.o
+                0x00000c88                Get_Distance_TOF400C
+ .text.setup    0x00000d00       0x98 ./src/hal_entry.o
+                0x00000d00                setup
+ .text.u8_draw_loop
+                0x00000d98       0x94 ./src/hal_entry.o
+                0x00000d98                u8_draw_loop
+ .text.serial_daemon
+                0x00000e2c       0x74 ./src/hal_entry.o
+                0x00000e2c                serial_daemon
+ .text.read_key
+                0x00000ea0       0x70 ./src/hal_entry.o
+                0x00000ea0                read_key
+ .text.process_key
+                0x00000f10      0x100 ./src/hal_entry.o
+                0x00000f10                process_key
+ .text.process_distance
+                0x00001010      0x180 ./src/hal_entry.o
+                0x00001010                process_distance
+ .text.process_light
+                0x00001190       0x84 ./src/hal_entry.o
+                0x00001190                process_light
+ .text.hal_entry
+                0x00001214       0x38 ./src/hal_entry.o
+                0x00001214                hal_entry
+ .text.R_BSP_WarmStart
+                0x0000124c       0x18 ./src/hal_entry.o
+                0x0000124c                R_BSP_WarmStart
+ .text.gpio_init
+                0x00001264       0x14 ./src/mk_pinctrl.o
+                0x00001264                gpio_init
+ .text.digitalWrite
+                0x00001278       0x1c ./src/mk_pinctrl.o
+                0x00001278                digitalWrite
+ .text.digitalRead
+                0x00001294       0x24 ./src/mk_pinctrl.o
+                0x00001294                digitalRead
+ .text.delay    0x000012b8        0x8 ./src/mk_pinctrl.o
+                0x000012b8                delay
+ .text.millis_tim_init
+                0x000012c0       0x1c ./src/mk_pinctrl.o
+                0x000012c0                millis_tim_init
+ .text.millis   0x000012dc        0xc ./src/mk_pinctrl.o
+                0x000012dc                millis
+ .text.beep     0x000012e8       0x48 ./src/mk_pinctrl.o
+                0x000012e8                beep
+ .text.adc_init
+                0x00001330       0x24 ./src/mk_pinctrl.o
+                0x00001330                adc_init
+ .text.analogRead
+                0x00001354       0x2c ./src/mk_pinctrl.o
+                0x00001354                analogRead
+ .text.timer0_callback
+                0x00001380       0x14 ./src/mk_pinctrl.o
+                0x00001380                timer0_callback
+ .text.uart0_callback
+                0x00001394       0x14 ./src/mk_rtt.o
+                0x00001394                uart0_callback
+ .text.uart6_callback
+                0x000013a8       0x8c ./src/mk_rtt.o
+                0x000013a8                uart6_callback
+ .text.tty6_logi
+                0x00001434       0x50 ./src/mk_rtt.o
+                0x00001434                tty6_logi
+ .text.tts_print
+                0x00001484       0x34 ./src/mk_rtt.o
+                0x00001484                tts_print
+ .text.uart6_init
+                0x000014b8       0x38 ./src/mk_rtt.o
+                0x000014b8                uart6_init
+ .text.uart0_init
+                0x000014f0       0x38 ./src/mk_rtt.o
+                0x000014f0                uart0_init
+ .text.startup.main
+                0x00001528        0xc ./ra_gen/main.o
+                0x00001528                main
+ .text.R_SCI_UART_Write
+                0x00001534       0x4c ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x00001534                R_SCI_UART_Write
+ .text.r_sci_uart_call_callback
+                0x00001580       0x44 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .text.R_SCI_UART_Open
+                0x000015c4      0x3b4 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x000015c4                R_SCI_UART_Open
+ .text.sci_uart_txi_isr
+                0x00001978       0x88 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x00001978                sci_uart_txi_isr
+ .text.sci_uart_rxi_isr
+                0x00001a00       0x90 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x00001a00                sci_uart_rxi_isr
+ .text.sci_uart_tei_isr
+                0x00001a90       0x48 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x00001a90                sci_uart_tei_isr
+ .text.sci_uart_eri_isr
+                0x00001ad8       0x78 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+                0x00001ad8                sci_uart_eri_isr
+ .text.R_IOPORT_Close
+                0x00001b50        0xc ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001b50                R_IOPORT_Close
+ .text.R_IOPORT_PinRead
+                0x00001b5c       0x24 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001b5c                R_IOPORT_PinRead
+ .text.R_IOPORT_PortRead
+                0x00001b80       0x14 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001b80                R_IOPORT_PortRead
+ .text.R_IOPORT_PortWrite
+                0x00001b94       0x1c ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001b94                R_IOPORT_PortWrite
+ .text.R_IOPORT_PinWrite
+                0x00001bb0       0x20 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001bb0                R_IOPORT_PinWrite
+ .text.R_IOPORT_PortDirectionSet
+                0x00001bd0       0x2c ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001bd0                R_IOPORT_PortDirectionSet
+ .text.R_IOPORT_PortEventInputRead
+                0x00001bfc       0x18 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001bfc                R_IOPORT_PortEventInputRead
+ .text.R_IOPORT_PinEventInputRead
+                0x00001c14       0x34 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001c14                R_IOPORT_PinEventInputRead
+ .text.R_IOPORT_PortEventOutputWrite
+                0x00001c48       0x1c ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001c48                R_IOPORT_PortEventOutputWrite
+ .text.R_IOPORT_PinEventOutputWrite
+                0x00001c64       0x34 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001c64                R_IOPORT_PinEventOutputWrite
+ .text.bsp_vbatt_init
+                0x00001c98       0xe8 ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_pins_config
+                0x00001d80       0xac ./ra/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_Open
+                0x00001e2c       0x14 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001e2c                R_IOPORT_Open
+ .text.R_IOPORT_PinsCfg
+                0x00001e40        0xc ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001e40                R_IOPORT_PinsCfg
+ .text.R_IOPORT_PinCfg
+                0x00001e4c       0xa8 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00001e4c                R_IOPORT_PinCfg
+ .text.R_GPT_Start
+                0x00001ef4        0xc ./ra/fsp/src/r_gpt/r_gpt.o
+                0x00001ef4                R_GPT_Start
+ .text.r_gpt_call_callback
+                0x00001f00       0x3c ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.r_gpt_enable_irq
+                0x00001f3c       0x60 ./ra/fsp/src/r_gpt/r_gpt.o
+ .text.R_GPT_Open
+                0x00001f9c      0x160 ./ra/fsp/src/r_gpt/r_gpt.o
+                0x00001f9c                R_GPT_Open
+ .text.gpt_counter_overflow_isr
+                0x000020fc       0x9c ./ra/fsp/src/r_gpt/r_gpt.o
+                0x000020fc                gpt_counter_overflow_isr
+ .text.R_ADC_ScanStart
+                0x00002198        0xc ./ra/fsp/src/r_adc/r_adc.o
+                0x00002198                R_ADC_ScanStart
+ .text.R_ADC_Read
+                0x000021a4       0x10 ./ra/fsp/src/r_adc/r_adc.o
+                0x000021a4                R_ADC_Read
+ .text.R_ADC_ScanCfg
+                0x000021b4      0x200 ./ra/fsp/src/r_adc/r_adc.o
+                0x000021b4                R_ADC_ScanCfg
+ .text.r_adc_irq_enable.part.0
+                0x000023b4       0x5c ./ra/fsp/src/r_adc/r_adc.o
+ .text.R_ADC_Open
+                0x00002410      0x134 ./ra/fsp/src/r_adc/r_adc.o
+                0x00002410                R_ADC_Open
+ .text.SystemCoreClockUpdate
+                0x00002544       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x00002544                SystemCoreClockUpdate
+ .text.R_BSP_SubClockStabilizeWaitAfterReset
+                0x0000256c        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000256c                R_BSP_SubClockStabilizeWaitAfterReset
+ .text.bsp_clock_init
+                0x00002570      0x14c ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x00002570                bsp_clock_init
+ .text.R_BSP_Init_RTC
+                0x000026bc       0xb0 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x000026bc                R_BSP_Init_RTC
+ .text.bsp_init_internal
+                0x0000276c        0x4 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+                0x0000276c                bsp_init_internal
+                0x0000276c                bsp_init
+ .text.bsp_prv_software_delay_loop
+                0x00002770        0xc ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+                0x00002770                bsp_prv_software_delay_loop
+ .text.R_BSP_SoftwareDelay
+                0x0000277c       0x8c ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+                0x0000277c                R_BSP_SoftwareDelay
+ .text.NMI_Handler
+                0x00002808       0x3c ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+                0x00002808                NMI_Handler
+ .text.bsp_irq_cfg
+                0x00002844       0x94 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x00002844                bsp_irq_cfg
+ .text.R_BSP_RegisterProtectEnable
+                0x000028d8       0x60 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x000028d8                R_BSP_RegisterProtectEnable
+ .text.R_BSP_RegisterProtectDisable
+                0x00002938       0x54 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+                0x00002938                R_BSP_RegisterProtectDisable
+ .text._sbrk    0x0000298c       0x14 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+                0x0000298c                _sbrk
+ .text.Default_Handler
+                0x000029a0        0x4 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x000029a0                DebugMon_Handler
+                0x000029a0                HardFault_Handler
+                0x000029a0                SysTick_Handler
+                0x000029a0                PendSV_Handler
+                0x000029a0                UsageFault_Handler
+                0x000029a0                SecureFault_Handler
+                0x000029a0                Default_Handler
+                0x000029a0                MemManage_Handler
+                0x000029a0                SVC_Handler
+                0x000029a0                BusFault_Handler
+ .text.Reset_Handler
+                0x000029a4        0xc ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x000029a4                Reset_Handler
+ .text.SystemRuntimeInit
+                0x000029b0       0x64 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text.SystemInit
+                0x00002a14       0xc0 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x00002a14                SystemInit
+ .text          0x00002ad4      0x254 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+                0x00002ad4                __muldf3
+                0x00002ad4                __aeabi_dmul
+ .text          0x00002d28      0x378 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+                0x00002d28                __aeabi_drsub
+                0x00002d30                __aeabi_dsub
+                0x00002d30                __subdf3
+                0x00002d34                __aeabi_dadd
+                0x00002d34                __adddf3
+                0x00002fac                __floatunsidf
+                0x00002fac                __aeabi_ui2d
+                0x00002fcc                __floatsidf
+                0x00002fcc                __aeabi_i2d
+                0x00002ff0                __aeabi_f2d
+                0x00002ff0                __extendsfdf2
+                0x00003034                __floatundidf
+                0x00003034                __aeabi_ul2d
+                0x00003044                __floatdidf
+                0x00003044                __aeabi_l2d
+ .text          0x000030a0       0x40 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+                0x000030a0                __aeabi_d2uiz
+                0x000030a0                __fixunsdfsi
+ .text._vsnprintf_r
+                0x000030e0       0x5c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o)
+                0x000030e0                _vsniprintf_r
+                0x000030e0                _vsnprintf_r
+ .text.vsnprintf
+                0x0000313c       0x1c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o)
+                0x0000313c                vsniprintf
+                0x0000313c                vsnprintf
+ .text.memset   0x00003158       0x10 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memset.o)
+                0x00003158                memset
+ .text.__errno  0x00003168        0xc D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
+                0x00003168                __errno
+ .text.__retarget_lock_acquire_recursive
+                0x00003174        0x2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+                0x00003174                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x00003176        0x2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+                0x00003176                __retarget_lock_release_recursive
+ .text          0x00003178       0x14 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strcmp.o)
+                0x00003178                strcmp
+ .text.memcpy   0x0000318c       0x1a D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+                0x0000318c                memcpy
+ *fill*         0x000031a6        0x2 
+ .text._free_r  0x000031a8       0x94 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-freer.o)
+                0x000031a8                _free_r
+ .text.sbrk_aligned
+                0x0000323c       0x44 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00003280      0x100 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+                0x00003280                _malloc_r
+ .text.__malloc_lock
+                0x00003380        0xc D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mlock.o)
+                0x00003380                __malloc_lock
+ .text.__malloc_unlock
+                0x0000338c        0xc D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mlock.o)
+                0x0000338c                __malloc_unlock
+ .text.__ssputs_r
+                0x00003398       0xc0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x00003398                __ssputs_r
+ .text._svfprintf_r
+                0x00003458      0x1f0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+                0x00003458                _svfiprintf_r
+                0x00003458                _svfprintf_r
+ .text._printf_common
+                0x00003648       0xe4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x00003648                _printf_common
+ .text._printf_i
+                0x0000372c      0x24c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
+                0x0000372c                _printf_i
+ .text.memmove  0x00003978       0x32 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memmove.o)
+                0x00003978                memmove
+ *fill*         0x000039aa        0x2 
+ .text._sbrk_r  0x000039ac       0x20 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-sbrkr.o)
+                0x000039ac                _sbrk_r
+ .text.memchr   0x000039cc       0x1c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memchr-stub.o)
+                0x000039cc                memchr
+ .text._realloc_r
+                0x000039e8       0x5c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reallocr.o)
+                0x000039e8                _realloc_r
+ .text._malloc_usable_size_r
+                0x00003a44       0x10 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-msizer.o)
+                0x00003a44                _malloc_usable_size_r
+ *(.rodata*)
+ .rodata.OLED_F8x16
+                0x00003a54      0x5f0 ./src/OLED.o
+                0x00003a54                OLED_F8x16
+ .rodata.setup.str1.4
+                0x00004044      0x146 ./src/hal_entry.o
+                                 0x1e (size before relaxing)
+ .rodata.u8_draw_loop.str1.4
+                0x0000418a       0x29 ./src/hal_entry.o
+ .rodata.serial_daemon.str1.4
+                0x0000418a       0x3f ./src/hal_entry.o
+ .rodata.process_key.str1.4
+                0x0000418a       0x6d ./src/hal_entry.o
+ .rodata.process_distance.str1.4
+                0x0000418a       0x15 ./src/hal_entry.o
+ .rodata.process_light.str1.4
+                0x0000418a       0x2e ./src/hal_entry.o
+ *fill*         0x0000418a        0x2 
+ .rodata.g_ioport
+                0x0000418c        0xc ./ra_gen/common_data.o
+                0x0000418c                g_ioport
+ .rodata.g_uart6_cfg
+                0x00004198       0x20 ./ra_gen/hal_data.o
+                0x00004198                g_uart6_cfg
+ .rodata.g_uart6_cfg_extend
+                0x000041b8       0x14 ./ra_gen/hal_data.o
+                0x000041b8                g_uart6_cfg_extend
+ .rodata.g_timer0_cfg
+                0x000041cc       0x20 ./ra_gen/hal_data.o
+                0x000041cc                g_timer0_cfg
+ .rodata.g_timer0_extend
+                0x000041ec       0x3c ./ra_gen/hal_data.o
+                0x000041ec                g_timer0_extend
+ .rodata.g_adc0_channel_cfg
+                0x00004228       0x14 ./ra_gen/hal_data.o
+                0x00004228                g_adc0_channel_cfg
+ .rodata.g_adc0_cfg
+                0x0000423c       0x18 ./ra_gen/hal_data.o
+                0x0000423c                g_adc0_cfg
+ .rodata.g_adc0_cfg_extend
+                0x00004254        0xb ./ra_gen/hal_data.o
+                0x00004254                g_adc0_cfg_extend
+ *fill*         0x0000425f        0x1 
+ .rodata.g_uart0_cfg
+                0x00004260       0x20 ./ra_gen/hal_data.o
+                0x00004260                g_uart0_cfg
+ .rodata.g_uart0_cfg_extend
+                0x00004280       0x14 ./ra_gen/hal_data.o
+                0x00004280                g_uart0_cfg_extend
+ .rodata.g_bsp_pin_cfg
+                0x00004294        0xc ./ra_gen/pin_data.o
+                0x00004294                g_bsp_pin_cfg
+ .rodata.g_bsp_pin_cfg_data
+                0x000042a0       0x68 ./ra_gen/pin_data.o
+                0x000042a0                g_bsp_pin_cfg_data
+ .rodata.g_interrupt_event_link_select
+                0x00004308       0x12 ./ra_gen/vector_data.o
+                0x00004308                g_interrupt_event_link_select
+ *fill*         0x0000431a        0x2 
+ .rodata.g_vbatt_pins_input
+                0x0000431c        0x6 ./ra/fsp/src/r_ioport/r_ioport.o
+ *fill*         0x00004322        0x2 
+ .rodata.g_ioport_on_ioport
+                0x00004324       0x34 ./ra/fsp/src/r_ioport/r_ioport.o
+                0x00004324                g_ioport_on_ioport
+ .rodata.g_init_info
+                0x00004358       0x18 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+                0x00004358                g_init_info
+ .rodata.nocache_list
+                0x00004370       0x10 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .rodata.copy_list
+                0x00004380       0x80 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .rodata.zero_list
+                0x00004400       0x30 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .rodata.g_prcr_masks
+                0x00004430        0x8 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .rodata._svfprintf_r.str1.1
+                0x00004438       0x33 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+                                 0x11 (size before relaxing)
+ .rodata._printf_i.str1.1
+                0x0000446b       0x22 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ *(.mcuboot_sce9_key)
+ *(.version)
+ *fill*         0x0000446b        0x1 
+ .version       0x0000446c       0x50 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+                0x000044bc                        __flash_readonly$$Limit = .
+
+.glue_7         0x000044bc        0x0
+ .glue_7        0x000044bc        0x0 linker stubs
+
+.glue_7t        0x000044bc        0x0
+ .glue_7t       0x000044bc        0x0 linker stubs
+
+.vfp11_veneer   0x000044bc        0x0
+ .vfp11_veneer  0x000044bc        0x0 linker stubs
+
+.v4_bx          0x000044bc        0x0
+ .v4_bx         0x000044bc        0x0 linker stubs
+
+.init           0x000044bc        0x4
+ .init          0x000044bc        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crti.o
+                0x000044bc                _init
+
+.fini           0x000044c0        0x4
+ .fini          0x000044c0        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crti.o
+                0x000044c0                _fini
+
+.iplt           0x000044c4        0x0
+ .iplt          0x000044c4        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+__flash_ctor$$
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ EXCLUDE_FILE(*crtend.o *crtend?.o) *(.ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ EXCLUDE_FILE(*crtend.o *crtend?.o) *(.dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+__flash_preinit_array$$
+                0x000044c4        0x0
+                0x000044c4                        __preinit_array_start = .
+ *(.preinit_array)
+                0x000044c4                        __preinit_array_end = .
+
+__flash_.got$$
+ *(.got.plt)
+ *(.got)
+
+__flash_init_array$$
+                0x000044c4        0x4
+                0x000044c4                        __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x000044c4        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x000044c8                        __init_array_end = .
+
+__flash_fini_array$$
+                0x000044c8        0x4
+                0x000044c8                        __fini_array_start = .
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x000044c8        0x4 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x000044cc                        __fini_array_end = .
+
+/DISCARD/
+ *(.ARM.extab*)
+ *(.gnu.linkonce.armextab.*)
+ *(.ARM.exidx*)
+ *(.gnu.linkonce.armexidx.*)
+
+__flash_arm.exidx$$
+                0x000044cc        0x0
+                0x000044cc                        __exidx_start = .
+                0x000044cc                        __exidx_end = .
+
+.flash.endof    0x00008000        0x0
+                0x00008000                        __ddsc_FLASH_END = .
+
+.flash.flat_nsc
+                0x00008000        0x0
+                0x00008000                        __ddsc_FLASH_NSC = .
+
+.option_setting_ofs0.startof
+                0x0100a100        0x0
+                0x0100a100                        __ddsc_OPTION_SETTING_OFS0_START = .
+
+__option_setting_ofs0_reg$$
+                0x0100a100        0x4
+                0x0100a100                        __option_setting_ofs0_reg$$Base = .
+ *(.option_setting_ofs0)
+ .option_setting_ofs0
+                0x0100a100        0x4 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+                0x0100a104                        __option_setting_ofs0_reg$$Limit = .
+
+.option_setting_ofs0.endof
+                0x0100a104        0x0
+                0x0100a104                        __ddsc_OPTION_SETTING_OFS0_END = .
+
+.option_setting_dualsel.startof
+                0x0100a110        0x0
+                0x0100a110                        __ddsc_OPTION_SETTING_DUALSEL_START = .
+
+__option_setting_dualsel_reg$$
+                0x0100a110        0x0
+                0x0100a110                        __option_setting_dualsel_reg$$Base = .
+ *(.option_setting_dualsel)
+                0x0100a110                        __option_setting_dualsel_reg$$Limit = .
+
+.option_setting_dualsel.endof
+                0x0100a110        0x0
+                0x0100a110                        __ddsc_OPTION_SETTING_DUALSEL_END = .
+
+.option_setting_ofs1.startof
+                0x0100a180        0x0
+                0x0100a180                        __ddsc_OPTION_SETTING_OFS1_START = .
+
+__option_setting_ofs1_reg$$
+                0x0100a180        0x0
+                0x0100a180                        __option_setting_ofs1_reg$$Base = .
+ *(.option_setting_ofs1)
+                0x0100a180                        __option_setting_ofs1_reg$$Limit = .
+
+.option_setting_ofs1.endof
+                0x0100a180        0x0
+                0x0100a180                        __ddsc_OPTION_SETTING_OFS1_END = .
+
+.option_setting_banksel.startof
+                0x0100a190        0x0
+                0x0100a190                        __ddsc_OPTION_SETTING_BANKSEL_START = .
+
+__option_setting_banksel_reg$$
+                0x0100a190        0x0
+                0x0100a190                        __option_setting_banksel_reg$$Base = .
+ *(.option_setting_banksel)
+                0x0100a190                        __option_setting_banksel_reg$$Limit = .
+
+.option_setting_banksel.endof
+                0x0100a190        0x0
+                0x0100a190                        __ddsc_OPTION_SETTING_BANKSEL_END = .
+
+.option_setting_bps.startof
+                0x0100a1c0        0x0
+                0x0100a1c0                        __ddsc_OPTION_SETTING_BPS_START = .
+
+__option_setting_bps_reg$$
+                0x0100a1c0        0x0
+                0x0100a1c0                        __option_setting_bps_reg$$Base = .
+ *(.option_setting_bps)
+                0x0100a1c0                        __option_setting_bps_reg$$Limit = .
+
+.option_setting_bps.endof
+                0x0100a1c0        0x0
+                0x0100a1c0                        __ddsc_OPTION_SETTING_BPS_END = .
+
+.option_setting_pbps.startof
+                0x0100a1e0        0x0
+                0x0100a1e0                        __ddsc_OPTION_SETTING_PBPS_START = .
+
+__option_setting_pbps_reg$$
+                0x0100a1e0        0x0
+                0x0100a1e0                        __option_setting_pbps_reg$$Base = .
+ *(.option_setting_pbps)
+                0x0100a1e0                        __option_setting_pbps_reg$$Limit = .
+
+.option_setting_pbps.endof
+                0x0100a1e0        0x0
+                0x0100a1e0                        __ddsc_OPTION_SETTING_PBPS_END = .
+
+.option_setting_ofs1_sec.startof
+                0x0100a200        0x0
+                0x0100a200                        __ddsc_OPTION_SETTING_OFS1_SEC_START = .
+
+__option_setting_ofs1_sec_reg$$
+                0x0100a200        0x4
+                0x0100a200                        __option_setting_ofs1_sec_reg$$Base = .
+ *(.option_setting_ofs1_sec)
+ .option_setting_ofs1_sec
+                0x0100a200        0x4 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+                0x0100a204                        __option_setting_ofs1_sec_reg$$Limit = .
+
+.option_setting_ofs1_sec.endof
+                0x0100a204        0x0
+                0x0100a204                        __ddsc_OPTION_SETTING_OFS1_SEC_END = .
+
+.option_setting_banksel_sec.startof
+                0x0100a210        0x0
+                0x0100a210                        __ddsc_OPTION_SETTING_BANKSEL_SEC_START = .
+
+__option_setting_banksel_sec_reg$$
+                0x0100a210        0x0
+                0x0100a210                        __option_setting_banksel_sec_reg$$Base = .
+ *(.option_setting_banksel_sec)
+                0x0100a210                        __option_setting_banksel_sec_reg$$Limit = .
+
+.option_setting_banksel_sec.endof
+                0x0100a210        0x0
+                0x0100a210                        __ddsc_OPTION_SETTING_BANKSEL_SEC_END = .
+
+.option_setting_bps_sec.startof
+                0x0100a240        0x0
+                0x0100a240                        __ddsc_OPTION_SETTING_BPS_SEC_START = .
+
+__option_setting_bps_sec_reg$$
+                0x0100a240        0x0
+                0x0100a240                        __option_setting_bps_sec_reg$$Base = .
+ *(.option_setting_bps_sec)
+                0x0100a240                        __option_setting_bps_sec_reg$$Limit = .
+
+.option_setting_bps_sec.endof
+                0x0100a240        0x0
+                0x0100a240                        __ddsc_OPTION_SETTING_BPS_SEC_END = .
+
+.option_setting_pbps_sec.startof
+                0x0100a260        0x0
+                0x0100a260                        __ddsc_OPTION_SETTING_PBPS_SEC_START = .
+
+__option_setting_pbps_sec_reg$$
+                0x0100a260        0x0
+                0x0100a260                        __option_setting_pbps_sec_reg$$Base = .
+ *(.option_setting_pbps_sec)
+                0x0100a260                        __option_setting_pbps_sec_reg$$Limit = .
+
+.option_setting_pbps_sec.endof
+                0x0100a260        0x0
+                0x0100a260                        __ddsc_OPTION_SETTING_PBPS_SEC_END = .
+
+.option_setting_ofs1_sel.startof
+                0x0100a280        0x0
+                0x0100a280                        __ddsc_OPTION_SETTING_OFS1_SEL_START = .
+
+__option_setting_ofs1_sel_reg$$
+                0x0100a280        0x4
+                0x0100a280                        __option_setting_ofs1_sel_reg$$Base = .
+ *(.option_setting_ofs1_sel)
+ .option_setting_ofs1_sel
+                0x0100a280        0x4 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+                0x0100a284                        __option_setting_ofs1_sel_reg$$Limit = .
+
+.eh_frame       0x0100a284        0x0
+ .eh_frame      0x0100a284        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.rel.dyn        0x0100a284        0x0
+ .rel.iplt      0x0100a284        0x0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.option_setting_ofs1_sel.endof
+                0x0100a284        0x0
+                0x0100a284                        __ddsc_OPTION_SETTING_OFS1_SEL_END = .
+
+.option_setting_banksel_sel.startof
+                0x0100a290        0x0
+                0x0100a290                        __ddsc_OPTION_SETTING_BANKSEL_SEL_START = .
+
+__option_setting_banksel_sel_reg$$
+                0x0100a290        0x0
+                0x0100a290                        __option_setting_banksel_sel_reg$$Base = .
+ *(.option_setting_banksel_sel)
+                0x0100a290                        __option_setting_banksel_sel_reg$$Limit = .
+
+.option_setting_banksel_sel.endof
+                0x0100a290        0x0
+                0x0100a290                        __ddsc_OPTION_SETTING_BANKSEL_SEL_END = .
+
+.option_setting_bps_sel.startof
+                0x0100a2c0        0x0
+                0x0100a2c0                        __ddsc_OPTION_SETTING_BPS_SEL_START = .
+
+__option_setting_bps_sel_reg$$
+                0x0100a2c0        0x0
+                0x0100a2c0                        __option_setting_bps_sel_reg$$Base = .
+ *(.option_setting_bps_sel)
+                0x0100a2c0                        __option_setting_bps_sel_reg$$Limit = .
+
+.option_setting_bps_sel.endof
+                0x0100a2c0        0x0
+                0x0100a2c0                        __ddsc_OPTION_SETTING_BPS_SEL_END = .
+OUTPUT(ra1.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x36
+ .ARM.attributes
+                0x00000000       0x26 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crti.o
+ .ARM.attributes
+                0x00000026       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000005e       0x3a ./src/OLED.o
+ .ARM.attributes
+                0x00000098       0x3a ./src/dmx_tof400c.o
+ .ARM.attributes
+                0x000000d2       0x3a ./src/hal_entry.o
+ .ARM.attributes
+                0x0000010c       0x3a ./src/mk_pinctrl.o
+ .ARM.attributes
+                0x00000146       0x3a ./src/mk_rtt.o
+ .ARM.attributes
+                0x00000180       0x3a ./ra_gen/common_data.o
+ .ARM.attributes
+                0x000001ba       0x3a ./ra_gen/hal_data.o
+ .ARM.attributes
+                0x000001f4       0x3a ./ra_gen/main.o
+ .ARM.attributes
+                0x0000022e       0x3a ./ra_gen/pin_data.o
+ .ARM.attributes
+                0x00000268       0x3a ./ra_gen/vector_data.o
+ .ARM.attributes
+                0x000002a2       0x3a ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .ARM.attributes
+                0x000002dc       0x3a ./ra/fsp/src/r_ioport/r_ioport.o
+ .ARM.attributes
+                0x00000316       0x3a ./ra/fsp/src/r_gpt/r_gpt.o
+ .ARM.attributes
+                0x00000350       0x3a ./ra/fsp/src/r_adc/r_adc.o
+ .ARM.attributes
+                0x0000038a       0x3a ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .ARM.attributes
+                0x000003c4       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .ARM.attributes
+                0x000003fe       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .ARM.attributes
+                0x00000438       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .ARM.attributes
+                0x00000472       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .ARM.attributes
+                0x000004ac       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .ARM.attributes
+                0x000004e6       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .ARM.attributes
+                0x00000520       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .ARM.attributes
+                0x0000055a       0x3a ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .ARM.attributes
+                0x00000594       0x3a ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .ARM.attributes
+                0x000005ce       0x3a ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .ARM.attributes
+                0x00000608       0x26 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000062e       0x26 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000654       0x26 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000067a       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x000006b2       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o)
+ .ARM.attributes
+                0x000006ea       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000722       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x0000075a       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000792       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x000007ca       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000802       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strcmp.o)
+ .ARM.attributes
+                0x00000826       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000085e       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000896       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x000008ce       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000906       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x0000093e       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000976       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memmove.o)
+ .ARM.attributes
+                0x000009ae       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x000009e6       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000a1e       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reallocr.o)
+ .ARM.attributes
+                0x00000a56       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-msizer.o)
+ .ARM.attributes
+                0x00000a8e       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard/crtend.o
+
+.comment        0x00000000       0x46
+ .comment       0x00000000       0x46 ./src/OLED.o
+                                 0x47 (size before relaxing)
+ .comment       0x00000046       0x47 ./src/dmx_tof400c.o
+ .comment       0x00000046       0x47 ./src/hal_entry.o
+ .comment       0x00000046       0x47 ./src/mk_pinctrl.o
+ .comment       0x00000046       0x47 ./src/mk_rtt.o
+ .comment       0x00000046       0x47 ./ra_gen/common_data.o
+ .comment       0x00000046       0x47 ./ra_gen/hal_data.o
+ .comment       0x00000046       0x47 ./ra_gen/main.o
+ .comment       0x00000046       0x47 ./ra_gen/pin_data.o
+ .comment       0x00000046       0x47 ./ra_gen/vector_data.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/r_ioport/r_ioport.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/r_gpt/r_gpt.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/r_adc/r_adc.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .comment       0x00000046       0x47 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_info     0x00000000    0x52723
+ .debug_info    0x00000000     0x3626 ./src/OLED.o
+ .debug_info    0x00003626     0x14aa ./src/dmx_tof400c.o
+ .debug_info    0x00004ad0     0x1cfd ./src/hal_entry.o
+ .debug_info    0x000067cd     0x6cf3 ./src/mk_pinctrl.o
+ .debug_info    0x0000d4c0     0x3442 ./src/mk_rtt.o
+ .debug_info    0x00010902     0x1241 ./ra_gen/common_data.o
+ .debug_info    0x00011b43     0xa5bd ./ra_gen/hal_data.o
+ .debug_info    0x0001c100       0xb1 ./ra_gen/main.o
+ .debug_info    0x0001c1b1      0xa31 ./ra_gen/pin_data.o
+ .debug_info    0x0001cbe2      0x8b9 ./ra_gen/vector_data.o
+ .debug_info    0x0001d49b     0xa085 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_info    0x00027520     0x76e2 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_info    0x0002ec02     0xa3e1 ./ra/fsp/src/r_gpt/r_gpt.o
+ .debug_info    0x00038fe3     0xadcd ./ra/fsp/src/r_adc/r_adc.o
+ .debug_info    0x00043db0      0x4e0 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .debug_info    0x00044290     0x57de ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_info    0x00049a6e      0x954 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_info    0x0004a3c2      0x204 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_info    0x0004a5c6     0x1348 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_info    0x0004b90e       0xb2 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_info    0x0004b9c0     0x1ffb ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_info    0x0004d9bb     0x390c ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_info    0x000512c7       0xd8 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_info    0x0005139f      0x187 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_info    0x00051526     0x11fd ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_abbrev   0x00000000     0x4570
+ .debug_abbrev  0x00000000      0x3f8 ./src/OLED.o
+ .debug_abbrev  0x000003f8      0x35e ./src/dmx_tof400c.o
+ .debug_abbrev  0x00000756      0x3ef ./src/hal_entry.o
+ .debug_abbrev  0x00000b45      0x3ef ./src/mk_pinctrl.o
+ .debug_abbrev  0x00000f34      0x41a ./src/mk_rtt.o
+ .debug_abbrev  0x0000134e      0x13a ./ra_gen/common_data.o
+ .debug_abbrev  0x00001488      0x31f ./ra_gen/hal_data.o
+ .debug_abbrev  0x000017a7       0x61 ./ra_gen/main.o
+ .debug_abbrev  0x00001808       0xff ./ra_gen/pin_data.o
+ .debug_abbrev  0x00001907       0xbe ./ra_gen/vector_data.o
+ .debug_abbrev  0x000019c5      0x650 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_abbrev  0x00002015      0x4c7 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_abbrev  0x000024dc      0x641 ./ra/fsp/src/r_gpt/r_gpt.o
+ .debug_abbrev  0x00002b1d      0x5ef ./ra/fsp/src/r_adc/r_adc.o
+ .debug_abbrev  0x0000310c       0xe3 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .debug_abbrev  0x000031ef      0x401 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_abbrev  0x000035f0      0x188 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_abbrev  0x00003778      0x10d ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_abbrev  0x00003885      0x25c ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_abbrev  0x00003ae1       0x5e ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_abbrev  0x00003b3f      0x2a1 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_abbrev  0x00003de0      0x283 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_abbrev  0x00004063       0x90 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_abbrev  0x000040f3      0x102 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_abbrev  0x000041f5      0x37b ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_loclists
+                0x00000000     0x48ef
+ .debug_loclists
+                0x00000000      0xc28 ./src/OLED.o
+ .debug_loclists
+                0x00000c28      0x417 ./src/dmx_tof400c.o
+ .debug_loclists
+                0x0000103f      0x13d ./src/hal_entry.o
+ .debug_loclists
+                0x0000117c      0x1c0 ./src/mk_pinctrl.o
+ .debug_loclists
+                0x0000133c      0x13d ./src/mk_rtt.o
+ .debug_loclists
+                0x00001479      0xe10 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_loclists
+                0x00002289      0x7c8 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_loclists
+                0x00002a51      0xb14 ./ra/fsp/src/r_gpt/r_gpt.o
+ .debug_loclists
+                0x00003565      0xc63 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_loclists
+                0x000041c8      0x2e9 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_loclists
+                0x000044b1       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_loclists
+                0x000044d1      0x1a5 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_loclists
+                0x00004676       0x73 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_loclists
+                0x000046e9       0x99 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_loclists
+                0x00004782       0xa7 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_loclists
+                0x00004829       0x29 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_loclists
+                0x00004852       0x9d ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_aranges  0x00000000      0x788
+ .debug_aranges
+                0x00000000       0xc0 ./src/OLED.o
+ .debug_aranges
+                0x000000c0       0x50 ./src/dmx_tof400c.o
+ .debug_aranges
+                0x00000110       0x78 ./src/hal_entry.o
+ .debug_aranges
+                0x00000188       0x70 ./src/mk_pinctrl.o
+ .debug_aranges
+                0x000001f8       0x58 ./src/mk_rtt.o
+ .debug_aranges
+                0x00000250       0x20 ./ra_gen/common_data.o
+ .debug_aranges
+                0x00000270       0x20 ./ra_gen/hal_data.o
+ .debug_aranges
+                0x00000290       0x20 ./ra_gen/main.o
+ .debug_aranges
+                0x000002b0       0x18 ./ra_gen/pin_data.o
+ .debug_aranges
+                0x000002c8       0x18 ./ra_gen/vector_data.o
+ .debug_aranges
+                0x000002e0       0xa0 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_aranges
+                0x00000380       0x90 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_aranges
+                0x00000410       0xe0 ./ra/fsp/src/r_gpt/r_gpt.o
+ .debug_aranges
+                0x000004f0       0xb8 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_aranges
+                0x000005a8       0x18 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .debug_aranges
+                0x000005c0       0x70 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_aranges
+                0x00000630       0x30 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_aranges
+                0x00000660       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_aranges
+                0x00000688       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_aranges
+                0x000006b0       0x18 ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_aranges
+                0x000006c8       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_aranges
+                0x000006e8       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_aranges
+                0x00000710       0x20 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_aranges
+                0x00000730       0x28 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_aranges
+                0x00000758       0x30 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_rnglists
+                0x00000000      0xd06
+ .debug_rnglists
+                0x00000000      0x169 ./src/OLED.o
+ .debug_rnglists
+                0x00000169       0x9f ./src/dmx_tof400c.o
+ .debug_rnglists
+                0x00000208       0xb1 ./src/hal_entry.o
+ .debug_rnglists
+                0x000002b9       0x5b ./src/mk_pinctrl.o
+ .debug_rnglists
+                0x00000314       0x67 ./src/mk_rtt.o
+ .debug_rnglists
+                0x0000037b       0x13 ./ra_gen/common_data.o
+ .debug_rnglists
+                0x0000038e       0x13 ./ra_gen/hal_data.o
+ .debug_rnglists
+                0x000003a1       0x13 ./ra_gen/main.o
+ .debug_rnglists
+                0x000003b4      0x256 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_rnglists
+                0x0000060a       0xbc ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_rnglists
+                0x000006c6      0x1d6 ./ra/fsp/src/r_gpt/r_gpt.o
+ .debug_rnglists
+                0x0000089c      0x212 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_rnglists
+                0x00000aae       0xf4 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_rnglists
+                0x00000ba2       0x1f ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_rnglists
+                0x00000bc1       0x35 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_rnglists
+                0x00000bf6       0x37 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_rnglists
+                0x00000c2d       0x41 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_rnglists
+                0x00000c6e       0x31 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_rnglists
+                0x00000c9f       0x13 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_rnglists
+                0x00000cb2       0x19 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_rnglists
+                0x00000ccb       0x3b ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_line     0x00000000     0xa343
+ .debug_line    0x00000000      0xf0e ./src/OLED.o
+ .debug_line    0x00000f0e      0x5ac ./src/dmx_tof400c.o
+ .debug_line    0x000014ba      0x9e2 ./src/hal_entry.o
+ .debug_line    0x00001e9c      0x50b ./src/mk_pinctrl.o
+ .debug_line    0x000023a7      0x679 ./src/mk_rtt.o
+ .debug_line    0x00002a20      0x281 ./ra_gen/common_data.o
+ .debug_line    0x00002ca1      0x355 ./ra_gen/hal_data.o
+ .debug_line    0x00002ff6       0x5e ./ra_gen/main.o
+ .debug_line    0x00003054      0x1f8 ./ra_gen/pin_data.o
+ .debug_line    0x0000324c      0x126 ./ra_gen/vector_data.o
+ .debug_line    0x00003372     0x1850 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_line    0x00004bc2      0xaee ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_line    0x000056b0     0x11a8 ./ra/fsp/src/r_gpt/r_gpt.o
+ .debug_line    0x00006858     0x14bd ./ra/fsp/src/r_adc/r_adc.o
+ .debug_line    0x00007d15      0x13b ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .debug_line    0x00007e50      0xa51 ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_line    0x000088a1      0x284 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_line    0x00008b25      0x2c7 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_line    0x00008dec      0x2f0 ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_line    0x000090dc      0x16c ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_line    0x00009248      0x482 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_line    0x000096ca      0x3a8 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_line    0x00009a72       0xf2 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_line    0x00009b64      0x1d8 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_line    0x00009d3c      0x607 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_str      0x00000000    0x119df
+ .debug_str     0x00000000    0x119df ./src/OLED.o
+                               0x35a8 (size before relaxing)
+ .debug_str     0x000119df     0x183c ./src/dmx_tof400c.o
+ .debug_str     0x000119df     0x364e ./src/hal_entry.o
+ .debug_str     0x000119df     0x67a2 ./src/mk_pinctrl.o
+ .debug_str     0x000119df     0x4194 ./src/mk_rtt.o
+ .debug_str     0x000119df     0x337f ./ra_gen/common_data.o
+ .debug_str     0x000119df     0xaf91 ./ra_gen/hal_data.o
+ .debug_str     0x000119df      0x1c6 ./ra_gen/main.o
+ .debug_str     0x000119df     0x1d96 ./ra_gen/pin_data.o
+ .debug_str     0x000119df     0x1dde ./ra_gen/vector_data.o
+ .debug_str     0x000119df     0x6e1a ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_str     0x000119df     0x5cd9 ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_str     0x000119df     0x6da3 ./ra/fsp/src/r_gpt/r_gpt.o
+ .debug_str     0x000119df     0x8856 ./ra/fsp/src/r_adc/r_adc.o
+ .debug_str     0x000119df      0x888 ./ra/fsp/src/bsp/mcu/ra6m5/bsp_linker.o
+ .debug_str     0x000119df     0x27ab ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_str     0x000119df     0x1c74 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_str     0x000119df      0x310 ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_str     0x000119df     0x21db ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_str     0x000119df      0x1ef ./ra/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_str     0x000119df     0x27c9 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_str     0x000119df     0x1b52 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_str     0x000119df      0x1e0 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_str     0x000119df      0x25e ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_str     0x000119df      0xaa3 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_frame    0x00000000     0x1900
+ .debug_frame   0x00000000      0x2ac ./src/OLED.o
+ .debug_frame   0x000002ac      0x110 ./src/dmx_tof400c.o
+ .debug_frame   0x000003bc      0x19c ./src/hal_entry.o
+ .debug_frame   0x00000558       0xfc ./src/mk_pinctrl.o
+ .debug_frame   0x00000654      0x140 ./src/mk_rtt.o
+ .debug_frame   0x00000794       0x20 ./ra_gen/common_data.o
+ .debug_frame   0x000007b4       0x20 ./ra_gen/hal_data.o
+ .debug_frame   0x000007d4       0x28 ./ra_gen/main.o
+ .debug_frame   0x000007fc      0x1e4 ./ra/fsp/src/r_sci_uart/r_sci_uart.o
+ .debug_frame   0x000009e0      0x17c ./ra/fsp/src/r_ioport/r_ioport.o
+ .debug_frame   0x00000b5c      0x244 ./ra/fsp/src/r_gpt/r_gpt.o
+ .debug_frame   0x00000da0      0x1dc ./ra/fsp/src/r_adc/r_adc.o
+ .debug_frame   0x00000f7c       0xfc ./ra/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_frame   0x00001078       0x40 ./ra/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_frame   0x000010b8       0x4c ./ra/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_frame   0x00001104       0x3c ./ra/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_frame   0x00001140       0x34 ./ra/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_frame   0x00001174       0x48 ./ra/fsp/src/bsp/mcu/all/bsp_register_protection.o
+ .debug_frame   0x000011bc       0x28 ./ra/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_frame   0x000011e4       0x38 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_frame   0x0000121c       0x64 ./ra/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_frame   0x00001280       0x30 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x000012b0       0xac D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000135c       0x24 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x00001380      0x144 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-findfp.o)
+ .debug_frame   0x000014c4       0x4c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-vsnprintf.o)
+ .debug_frame   0x00001510       0x20 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memset.o)
+ .debug_frame   0x00001530       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reent.o)
+ .debug_frame   0x00001568       0x20 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-errno.o)
+ .debug_frame   0x00001588       0xb0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-lock.o)
+ .debug_frame   0x00001638       0x20 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strcmp.o)
+ .debug_frame   0x00001658       0x28 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00001680       0x38 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-freer.o)
+ .debug_frame   0x000016b8       0x50 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00001708       0x30 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00001738       0x90 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-svfprintf.o)
+ .debug_frame   0x000017c8       0x60 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_frame   0x00001828       0x28 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memmove.o)
+ .debug_frame   0x00001850       0x2c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x0000187c       0x28 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-memchr-stub.o)
+ .debug_frame   0x000018a4       0x3c D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-reallocr.o)
+ .debug_frame   0x000018e0       0x20 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-msizer.o)
+
+.debug_line_str
+                0x00000000      0x1c0
+ .debug_line_str
+                0x00000000      0x1c0 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_muldf3.o)
+                                 0xd2 (size before relaxing)
+ .debug_line_str
+                0x000001c0       0xd2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_line_str
+                0x000001c0       0xd2 D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/thumb/v8-m.main+fp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_line_str
+                0x000001c0       0xee D:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.3 rel1/bin/../lib/gcc/arm-none-eabi/14.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg_nano.a(libc_a-strcmp.o)

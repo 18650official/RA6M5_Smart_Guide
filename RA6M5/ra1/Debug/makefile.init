@@ -1,0 +1,11 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=D:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\14.3 rel1\bin\;D:\Renesas\e2_studio\eclipse\plugins\com.renesas.ide.exttools.busybox.win32.x86_64_1.3.6.v20230615-0931\bin\;D:\Renesas\e2_studio\eclipse\plugins\com.renesas.ide.exttools.gnumake.win32.x86_64_4.3.1.v20240909-0854\mk\;D:\Renesas\e2_studio\eclipse\plugins\com.renesas.ide.exttools.scandep.win32.x86_64_1.0.0.v20230915-1033\sd\;D:/Renesas/e2_studio/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;D:/Renesas/e2_studio/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;D:\ProgramData\LLVM for Renesas RISC-V 19.1.7.202501\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\NetSarang\Xshell 8\;C:\Program Files (x86)\NetSarang\Xftp 8\;D:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\14.3 rel1\bin;D:\ProgramData\LLVM for Renesas RISC-V 19.1.7.202501\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\mingw64\bin;C:\Users\Snowmiku\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Snowmiku\AppData\Local\Programs\Python\Python312\;C:\Program Files (x86)\OpenOCD\bin;C:\Program Files\platform-tools;C:\Users\Snowmiku\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\Snowmiku\AppData\Local\Programs\Python\Python37-32\;C:\Users\Snowmiku\AppData\Local\Microsoft\WindowsApps;C:\Users\Snowmiku\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Snowmiku\AppData\Roaming\npm;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1.1\bin;;D:\Renesas\e2_studio\eclipse
+export TCINSTALL=D:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\14.3 rel1$(call arg1,\)
+export CWD=$(CURDIR)
+export TC_VERSION=14.3.1.arm-14-174
+export PWD=$(CURDIR)
+export GCC_VERSION=14.3.1
