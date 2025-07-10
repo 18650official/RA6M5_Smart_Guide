@@ -4,14 +4,15 @@
 
 ## 文件介绍
 `\RA6M5` - 瑞萨芯片的主程序，使用e2 studio编译、J-Link下载 
-    `\src` - 源代码
-        `hal_entry.c` - 入口函数
-        `mk_pinctrl` - GPIO兼容层
-        `mk_rtt` - UART与JLink RTT Serial兼容层
-        `OLED` - IIC OLED驱动程序
-        `tof400c` - IIC TOF测距传感器驱动
-    `\Debug` - 生成的二进制和中间文件
-    `configure.xml` - 可视化配置工具
+- `\src` - 源代码
+- `hal_entry.c` - 入口函数
+- `mk_pinctrl` - GPIO兼容层
+- `mk_rtt` - UART与JLink RTT Serial兼容层
+- `OLED` - IIC OLED驱动程序
+- `tof400c` - IIC TOF测距传感器驱动
+- `\Debug` - 生成的二进制和中间文件
+- `configure.xml` - 可视化配置工具
+
 `\ESP32_C3_Arduino` - ESP32的C++代码，使用Arduino安装库后可以编译运行
 
 ## 参见
