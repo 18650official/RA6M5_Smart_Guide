@@ -86,6 +86,7 @@ ra/fsp/src/bsp/mcu/all \
 ra/fsp/src/bsp/mcu/ra6m5 \
 ra/fsp/src/r_adc \
 ra/fsp/src/r_gpt \
+ra/fsp/src/r_icu \
 ra/fsp/src/r_ioport \
 ra/fsp/src/r_sci_uart \
 ra_gen \

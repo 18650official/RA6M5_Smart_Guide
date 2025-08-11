@@ -47,9 +47,11 @@ src/mk_pinctrl.o: ../src/mk_pinctrl.c ../src/mk_pinctrl.h \
  C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/src/bsp/mcu/all/bsp_delay.h \
  C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/src/bsp/mcu/all/bsp_mcu_api.h \
  C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra_gen/common_data.h \
+ C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/instances/r_icu.h \
+ C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/api/r_external_irq_api.h \
+ C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/api/bsp_api.h \
  C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/instances/r_ioport.h \
  C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/api/r_ioport_api.h \
- C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/api/bsp_api.h \
  C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra_cfg/fsp_cfg/r_ioport_cfg.h \
  C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra_cfg/fsp_cfg/bsp/bsp_pin_cfg.h \
  C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/instances/r_sci_uart.h \
@@ -111,9 +113,11 @@ C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/src/bsp/mcu/all/bsp_compiler_s
 C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/src/bsp/mcu/all/bsp_delay.h:
 C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/src/bsp/mcu/all/bsp_mcu_api.h:
 C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra_gen/common_data.h:
+C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/instances/r_icu.h:
+C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/api/r_external_irq_api.h:
+C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/api/bsp_api.h:
 C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/instances/r_ioport.h:
 C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/api/r_ioport_api.h:
-C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/api/bsp_api.h:
 C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra_cfg/fsp_cfg/r_ioport_cfg.h:
 C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra_cfg/fsp_cfg/bsp/bsp_pin_cfg.h:
 C:/Users/Snowmiku/e2_studio/workspace2/ra1/ra/fsp/inc/instances/r_sci_uart.h:

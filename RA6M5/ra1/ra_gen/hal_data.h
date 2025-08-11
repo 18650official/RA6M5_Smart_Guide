@@ -12,6 +12,32 @@
 #include "r_timer_api.h"
 FSP_HEADER
 /** UART on SCI Instance. */
+extern const uart_instance_t g_uart9;
+
+/** Access the UART instance using these structures when calling API functions directly (::p_api is not used). */
+extern sci_uart_instance_ctrl_t g_uart9_ctrl;
+extern const uart_cfg_t g_uart9_cfg;
+extern const sci_uart_extended_cfg_t g_uart9_cfg_extend;
+
+#ifndef uart9_callback
+void uart9_callback(uart_callback_args_t *p_args);
+#endif
+/** ADC on ADC Instance. */
+extern const adc_instance_t g_adc_temp;
+
+/** Access the ADC instance using these structures when calling API functions directly (::p_api is not used). */
+extern adc_instance_ctrl_t g_adc_temp_ctrl;
+extern const adc_cfg_t g_adc_temp_cfg;
+extern const adc_channel_cfg_t g_adc_temp_channel_cfg;
+
+#ifndef NULL
+void NULL(adc_callback_args_t *p_args);
+#endif
+
+#ifndef NULL
+#define ADC_DMAC_CHANNELS_PER_BLOCK_NULL  1
+#endif
+/** UART on SCI Instance. */
 extern const uart_instance_t g_uart0;
 
 /** Access the UART instance using these structures when calling API functions directly (::p_api is not used). */

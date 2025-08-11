@@ -9,8 +9,12 @@ C_SRCS += \
 ../src/SEGGER_RTT_printf.c \
 ../src/dmx_tof400c.c \
 ../src/hal_entry.c \
+../src/minmea.c \
+../src/mk_gps.c \
+../src/mk_i2c.c \
 ../src/mk_pinctrl.c \
 ../src/mk_rtt.c \
+../src/mpu6050.c \
 ../src/syscalls.c 
 
 SREC += \
@@ -22,8 +26,12 @@ C_DEPS += \
 ./src/SEGGER_RTT_printf.d \
 ./src/dmx_tof400c.d \
 ./src/hal_entry.d \
+./src/minmea.d \
+./src/mk_gps.d \
+./src/mk_i2c.d \
 ./src/mk_pinctrl.d \
 ./src/mk_rtt.d \
+./src/mpu6050.d \
 ./src/syscalls.d 
 
 OBJS += \
@@ -32,8 +40,12 @@ OBJS += \
 ./src/SEGGER_RTT_printf.o \
 ./src/dmx_tof400c.o \
 ./src/hal_entry.o \
+./src/minmea.o \
+./src/mk_gps.o \
+./src/mk_i2c.o \
 ./src/mk_pinctrl.o \
 ./src/mk_rtt.o \
+./src/mpu6050.o \
 ./src/syscalls.o 
 
 MAP += \

@@ -81,7 +81,7 @@ extern "C" {
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 11) /* USBFS */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 18) /* SPI1 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 19) /* SPI0 */ | \
-            (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 22) /* SCI9 */ | \
+            (((1 > 0) ? 0U : 1U) << 22) /* SCI9 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 23) /* SCI8 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 24) /* SCI7 */ | \
             (((1 > 0) ? 0U : 1U) << 25) /* SCI6 */ | \
@@ -114,10 +114,10 @@ extern "C" {
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 12) /* POEG2 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 13) /* POEG1 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 14) /* POEG0 */ | \
-            (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 15) /* ADC1 */ | \
+            (((1 > 0) ? 0U : 1U) << 15) /* ADC1 */ | \
             (((1 > 0) ? 0U : 1U) << 16) /* ADC0 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 20) /* DAC */ | \
-            (((1 > 0) ? 0U : 1U) << 22) /* TSN */ | \
+            (((2 > 0) ? 0U : 1U) << 22) /* TSN */ | \
             0xffae07f0) /* Unused */
 #endif
 #ifndef BSP_TZ_CFG_PSARE
@@ -203,8 +203,8 @@ extern "C" {
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 4U) /* External IRQ4 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 5U) /* External IRQ5 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 6U) /* External IRQ6 */ | \
-            (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 7U) /* External IRQ7 */ | \
-            (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 8U) /* External IRQ8 */ | \
+            (((1 > 0) ? 0U : 1U) << 7U) /* External IRQ7 */ | \
+            (((1 > 0) ? 0U : 1U) << 8U) /* External IRQ8 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 9U) /* External IRQ9 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 10U) /* External IRQ10 */ | \
             (((RA_NOT_DEFINED > 0) ? 0U : 1U) << 11U) /* External IRQ11 */ | \

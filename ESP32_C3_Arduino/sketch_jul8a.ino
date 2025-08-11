@@ -21,6 +21,7 @@ struct GpsLocation {
   float latitude;
   float longitude;
   char valid;
+  String name; //非必须
 } loc;
 
 // Network func definition
@@ -73,17 +74,19 @@ void findRA(); // RA MCU Support
 void setup() 
 {
   Serial.begin(115200);
-  while (!Serial); // 等待串口
+  // while (!Serial); // 等待串口
+  Serial.setTxTimeoutMs(0);
   Serial1.begin(115200, SERIAL_8N1, 20, 21); // Serial1 for GPS module
   while(!Serial1);
   delay(400);
-  Serial.println("[INFO] ESP32 Init!");  
+  Serial.println("\n[INFO] ESP32 Init!");  
   // Find RA MCU
-  delay(10000);
+  delay(4000);
   Serial.println("[INFO] Finding RA MCU...");
   findRA();
   Serial.println("[INFO] RA MCU found, starting Wi-Fi configuration...");
   // Initialize Wi-Fi
+  delay(2500);
   Wifi_init_process();
   Serial.println("[INFO] Wi-Fi initialized, start loop...");
 }
@@ -163,12 +166,13 @@ void SOSAction()
   get_loc_online(&loc); // 获取在线定位信息
   if (loc.valid == 0) {
     Serial.println("[Warning] Location not valid, cannot send SOS.");
-    Serial1.println("@LOC_INVALID");
+    Serial1.println("@LOC_INVAILD");
     return; // 如果定位无效，直接返回
   }
-  const String base_url = "设备发出了求助信号，此链接是设备的实时位置:https://uri.amap.com/marker?position=";
-
+  const String base_url = "智能导盲系统发出了求助信号，设备地点: ";
     String url = base_url;
+    url += loc.name;
+    url += "，此链接是设备的实时位置: https://uri.amap.com/marker?position=";
     url += String(loc.longitude, 6);  // 经度
     url += ",";
     url += String(loc.latitude, 6);   // 纬度
@@ -267,6 +271,8 @@ void Wifi_init_process()
 
     // 连接 Wi-Fi
     if (ssid.length() > 0 && ConnectWifi()) {
+      Serial.println("[INFO] WiFi Connected!");
+      Serial1.println("@WL_CONNECTED");
     } else {
         WiFi.softAP("ESP32_Config", "12345678");
         IPAddress IP = WiFi.softAPIP();
@@ -312,7 +318,13 @@ void sendMail(String s)
 
     if (httpResponseCode > 0) {
       String response = http.getString();
-      Serial.println(httpResponseCode == 200 ? "[INFO] Sent" : "[Warning] Send failed: Service error");
+      Serial.print(httpResponseCode == 200 ? "[INFO] Sent" : "[Warning] Send failed: Service error");
+      if(httpResponseCode != 200)
+      {
+        Serial.print(", errorCode: ");
+        Serial.println(httpResponseCode);
+      }
+      else Serial.println();
     } else {
       Serial.println("[Warning] Send failed: Connect failure\n");
     }
@@ -320,7 +332,7 @@ void sendMail(String s)
   }
 }
 
-#define UUID "1af66560-58ac-11f0-a777-298edf4011b5"
+#define UUID "1af66560-58ac-11f0-a777-298edf4011a4"
 #define KEY "Q6GdLHvfESScK1hPpmzesn3s4Hsm0nbo"
 
 typedef struct
@@ -329,22 +341,24 @@ typedef struct
   signed char rssi;
 } ap_info_typedef;
 
-ap_info_typedef ApInfo_array[5]; // 定义AP信息结构体
+ap_info_typedef ApInfo_array[10]; // 定义AP信息结构体
 int ApInfo_count = 0; // AP信息计数
 
 void wifi_scan()
 {
   ApInfo_count = WiFi.scanNetworks(); // 扫描Wi-Fi网络
+  delay(300);
   if (ApInfo_count == 0) {
     return; // 没有找到网络
   } 
   else {
-    for (int i = 0; i < 5; ++i) 
+    for (int i = 0; i < ApInfo_count; ++i) 
     {
       ApInfo_array[i].rssi = WiFi.RSSI(i);
       ApInfo_array[i].mac = WiFi.BSSIDstr(i);
       delay(10);
     }
+    Serial.printf("[INFO] Wi-Fi scanned, count: %d\n", ApInfo_count);
     return; // 扫描成功
   }
 }
@@ -378,19 +392,21 @@ void getTimeStamp()
 String JsonSerialization()
 {
   String message;
-  long long timestamp_ms = time(nullptr) * 1000LL;
+  unsigned long long timestamp = time(nullptr);
+  int64_t timestamp_ms = timestamp * 1000LL + random(1000);
 
   doc["timestamp"] = timestamp_ms; // 获取当前时间戳
   doc["id"] = "esp32-" + String(random(1000000));
   doc["asset"]["id"] = UUID;
-  doc["asset"]["manufacturer"] = "esp32-s2";
+  doc["asset"]["manufacturer"] = "espressif";
   doc["location"]["timestamp"] = time(nullptr); // 获取当前时间戳
-  for(int i = 0;i < min(5, ApInfo_count);i++)
+  for(int i = 0;i < min(10, ApInfo_count);i++)
   {
     doc["location"]["wifis"][i]["macAddress"] = ApInfo_array[i].mac; // 获取MAC地址
     doc["location"]["wifis"][i]["signalStrength"] = ApInfo_array[i].rssi; // 获取信号强度
   }
   serializeJson(doc, message);  // 序列化JSON数据并导出字符串
+  Serial.printf("\nTransmit to the server:\n %s\n", message.c_str());
   return message;
 }
 
@@ -423,11 +439,18 @@ bool get_loc_online(GpsLocation *loc)
   const char * name = rep["location"]["address"]["name"];
   const char * source = rep["location"]["position"]["source"];
   const char * spatialReference = rep["location"]["position"]["spatialReference"];
+  String full_result;
+  serializeJson(rep, full_result);
   http.end(); 
   // 将解析后的数据存储到loc结构体中
   loc->latitude = latitude;
   loc->longitude = longitude;
+  loc->name = String(name);
   loc->valid = 1; // 设置有效状态
+  Serial.println();
   Serial.printf("[INFO] Get Location: lat:%f, lon:%f\n", latitude, longitude);
+  Serial.println();
+  Serial.printf("The full JSON Data is:\n %s", full_result.c_str());
+  Serial.println();
   return true; // 返回true表示成功
 }

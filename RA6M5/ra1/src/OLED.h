@@ -9,9 +9,10 @@
 #define OLED_H_
 
 #include "hal_data.h"
+#include "mk_pinctrl.h"
 
-#define SDA_PIN BSP_IO_PORT_00_PIN_04
-#define SCL_PIN BSP_IO_PORT_00_PIN_03
+#define SCL_PIN BSP_IO_PORT_02_PIN_06
+#define SDA_PIN BSP_IO_PORT_03_PIN_03
 
 #define OLED_W_SCL(x)  R_IOPORT_PinWrite(&g_ioport_ctrl, SCL_PIN, (bsp_io_level_t)(x));
 #define OLED_W_SDA(x)  R_IOPORT_PinWrite(&g_ioport_ctrl, SDA_PIN, (bsp_io_level_t)(x));

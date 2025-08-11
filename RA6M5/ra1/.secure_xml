@@ -70,16 +70,24 @@
       <configSetting altId="adc0.an07.p007" configurationId="adc0.an07" isUsedByDriver="true" peripheral="ADC0"/>
       <configSetting altId="debug0.swclk.p300" configurationId="debug0.swclk" isUsedByDriver="true" peripheral="DEBUG0"/>
       <configSetting altId="debug0.swdio.p108" configurationId="debug0.swdio" isUsedByDriver="true" peripheral="DEBUG0"/>
+      <configSetting altId="irq0.irq07.p001" configurationId="irq0.irq07" isUsedByDriver="true" peripheral="ICU0"/>
+      <configSetting altId="irq0.irq08.p002" configurationId="irq0.irq08" isUsedByDriver="true" peripheral="ICU0"/>
       <configSetting altId="p003.output.low" configurationId="p003"/>
       <configSetting altId="p004.output.low" configurationId="p004"/>
       <configSetting altId="p105.output.high" configurationId="p105"/>
       <configSetting altId="p107.input" configurationId="p107"/>
+      <configSetting altId="p114.output.high" configurationId="p114"/>
+      <configSetting altId="p206.output.high" configurationId="p206"/>
+      <configSetting altId="p303.output.high" configurationId="p303"/>
+      <configSetting altId="p306.output.low" configurationId="p306"/>
       <configSetting altId="p400.output.high" configurationId="p400"/>
-      <configSetting altId="p602.output.low" configurationId="p602"/>
+      <configSetting altId="p411.output.high" configurationId="p411"/>
       <configSetting altId="sci0.rxd.p100" configurationId="sci0.rxd" isUsedByDriver="true" peripheral="SCI0"/>
       <configSetting altId="sci0.txd.p101" configurationId="sci0.txd" isUsedByDriver="true" peripheral="SCI0"/>
       <configSetting altId="sci6.rxd.p304" configurationId="sci6.rxd" isUsedByDriver="true" peripheral="SCI6"/>
       <configSetting altId="sci6.txd.p305" configurationId="sci6.txd" isUsedByDriver="true" peripheral="SCI6"/>
+      <configSetting altId="sci9.rxd.p601" configurationId="sci9.rxd" isUsedByDriver="true" peripheral="SCI9"/>
+      <configSetting altId="sci9.txd.p602" configurationId="sci9.txd" isUsedByDriver="true" peripheral="SCI9"/>
     </pincfg>
   </raPinConfiguration>
 </raConfiguration>

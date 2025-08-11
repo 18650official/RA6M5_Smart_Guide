@@ -29,10 +29,10 @@ uint8_t SDA_READ(void)
 {
     OLED_W_SDA(1);
     OLED_W_SCL(1);
-    R_BSP_SoftwareDelay(6,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     OLED_W_SCL(1);
     OLED_W_SDA(0);
-    R_BSP_SoftwareDelay(6,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     OLED_W_SCL(1);
     OLED_W_SCL(0);
 }
@@ -45,11 +45,11 @@ uint8_t SDA_READ(void)
 void IIC_Stop(void)
 {
     OLED_W_SDA(0);
-    R_BSP_SoftwareDelay(5,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     OLED_W_SCL(1);
-    R_BSP_SoftwareDelay(5,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     OLED_W_SDA(1);
-    R_BSP_SoftwareDelay(5,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
 }
 
 /**
@@ -61,9 +61,9 @@ uint8_t IIC_Wait_Ack(void)
 {
     uint8_t ucErrTime=0;
     OLED_W_SDA(1);
-    R_BSP_SoftwareDelay(4,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     OLED_W_SCL(1);
-    R_BSP_SoftwareDelay(4,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     while(SDA_READ())
     {
         ucErrTime++;
@@ -86,9 +86,9 @@ void IIC_Ack(void)
 {
     OLED_W_SCL(0);
     OLED_W_SDA(0);
-    R_BSP_SoftwareDelay(4,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     OLED_W_SCL(1);
-    R_BSP_SoftwareDelay(4,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     OLED_W_SCL(0);
 }
 
@@ -101,9 +101,9 @@ void IIC_NAck(void)
 {
     OLED_W_SCL(0);
     OLED_W_SDA(1);
-    R_BSP_SoftwareDelay(4,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     OLED_W_SCL(1);
-    R_BSP_SoftwareDelay(4,BSP_DELAY_UNITS_MICROSECONDS);
+    R_BSP_SoftwareDelay(2,BSP_DELAY_UNITS_MICROSECONDS);
     OLED_W_SCL(0);
 }
 
@@ -125,11 +125,11 @@ void IIC_Send_Byte(uint8_t data)
         else
              OLED_W_SDA(0);
         data<<=1;
-        R_BSP_SoftwareDelay(3,BSP_DELAY_UNITS_MICROSECONDS);
+        R_BSP_SoftwareDelay(1,BSP_DELAY_UNITS_MICROSECONDS);
         OLED_W_SCL(1);
-        R_BSP_SoftwareDelay(3,BSP_DELAY_UNITS_MICROSECONDS);
+        R_BSP_SoftwareDelay(1,BSP_DELAY_UNITS_MICROSECONDS);
         OLED_W_SCL(0);
-        R_BSP_SoftwareDelay(3,BSP_DELAY_UNITS_MICROSECONDS);
+        R_BSP_SoftwareDelay(1,BSP_DELAY_UNITS_MICROSECONDS);
     }
 
 }
@@ -140,11 +140,11 @@ uint8_t IIC_Read_Byte(unsigned char ack)
     for(i=0;i<8;i++ )
     {
         OLED_W_SCL(0);
-        R_BSP_SoftwareDelay(3,BSP_DELAY_UNITS_MICROSECONDS);
+        R_BSP_SoftwareDelay(1,BSP_DELAY_UNITS_MICROSECONDS);
         OLED_W_SCL(1);
         receive<<=1;
         if(SDA_READ())receive++;
-        R_BSP_SoftwareDelay(3,BSP_DELAY_UNITS_MICROSECONDS);
+        R_BSP_SoftwareDelay(1,BSP_DELAY_UNITS_MICROSECONDS);
     }
     if (!ack)
         IIC_NAck();
@@ -354,9 +354,13 @@ void OLED_ShowBinNum(uint8_t Line, uint8_t Column, uint32_t Number, uint8_t Leng
   */
 void OLED_Init(void)
 {
-
+#define BOARD_OLED_GND BSP_IO_PORT_03_PIN_06
+#define BOARD_OLED_VIN BSP_IO_PORT_04_PIN_11
     uint32_t i, j;
-    R_BSP_SoftwareDelay(200,BSP_DELAY_UNITS_MILLISECONDS);//上电延时200ms
+    R_BSP_SoftwareDelay(200,BSP_DELAY_UNITS_MILLISECONDS);
+    digitalWrite(BOARD_OLED_VIN, 1);
+    digitalWrite(BOARD_OLED_GND, 0);
+    delayMicroseconds(1000);
 
     OLED_I2C_Init();            //端口初始化
 

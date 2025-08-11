@@ -1,6 +1,11 @@
 #include "mk_pinctrl.h"
 
 uint32_t millis_count = 0;
+uint8_t user_key1_value;
+uint8_t user_key2_value;
+
+#define KEY1 BSP_IO_PORT_00_PIN_01
+#define KEY2 BSP_IO_PORT_00_PIN_02
 
 void gpio_init()
 {
@@ -71,6 +76,30 @@ fsp_err_t adc_init(void)
     return e;
 }
 
+fsp_err_t temp_sensor_init(void)
+{
+	fsp_err_t e;
+		e = R_ADC_Open(&g_adc_temp_ctrl, &g_adc_temp_cfg);
+	    assert(FSP_SUCCESS == e);
+	    // 启用温度传感器输入（内部电路）
+	    e = R_ADC_ScanCfg(&g_adc_temp_ctrl, &g_adc_temp_channel_cfg);
+	    assert(FSP_SUCCESS == e);
+	    return e;
+}
+
+// exti
+fsp_err_t exti_init(void)
+{
+	fsp_err_t e;
+	 /* 初始化外部中断7 */
+	    R_ICU_ExternalIrqOpen(&g_external_irq7_ctrl, &g_external_irq7_cfg);
+	    e = R_ICU_ExternalIrqEnable(&g_external_irq7_ctrl);
+	    /* 初始化外部中断8 */
+	    R_ICU_ExternalIrqOpen(&g_external_irq8_ctrl, &g_external_irq8_cfg);
+	    e = R_ICU_ExternalIrqEnable(&g_external_irq8_ctrl);
+	    return e;
+}
+
 uint16_t analogRead(adc_channel_t channel)
 {
     uint16_t result;
@@ -90,3 +119,76 @@ void timer0_callback(timer_callback_args_t *p_args) // INT
         millis_count += 1;
     }
 }
+
+void exti7_callback(external_irq_callback_args_t *p_args)
+{
+	static unsigned long press_time;
+	unsigned long duration;
+	if (p_args->channel == 7)
+	{
+		if(digitalRead(KEY1) == 0)
+		{
+			press_time = millis();
+		}
+		else if(digitalRead(KEY1) == 1)
+		{
+			duration = millis() - press_time;
+			if(duration > 600) user_key1_value = 2;
+			else if(duration < 1) user_key1_value = 0;
+			else user_key1_value = 1;
+		}
+	}
+}
+
+void exti8_callback(external_irq_callback_args_t *p_args)
+{
+	static unsigned long press_time;
+	unsigned long duration;
+	if (p_args->channel == 8)
+	{
+		if(digitalRead(KEY2) == 0)
+		{
+			press_time = millis();
+		}
+		else if(digitalRead(KEY2) == 1)
+		{
+			duration = millis() - press_time;
+			if(duration > 600) user_key2_value = 2;
+			else if(duration < 1) user_key2_value = 0;
+			else user_key2_value = 1;
+		}
+	}
+}
+
+uint8_t get_key1_value(void)
+{
+	uint8_t v = user_key1_value;
+	user_key1_value = 0;
+	return v;
+}
+
+uint8_t get_key2_value(void)
+{
+	uint8_t v = user_key2_value;
+	user_key2_value = 0;
+	return v;
+}
+
+float get_sys_temp(void)
+{
+	uint16_t adc_result = 0;
+	float voltage, temperature;
+
+	R_ADC_ScanStart(&g_adc_temp_ctrl);
+	R_ADC_Read(&g_adc_temp_ctrl, ADC_CHANNEL_TEMPERATURE, &adc_result);
+
+	// 22 1.2408
+	// 25 1.4300
+	// k=0.063 t = 0.063*(t-1.24)+22
+
+	voltage = (adc_result / 4095.0f) * 3.3f;
+	temperature = (voltage - 1.2408f) * 200.0f + 22.0f;
+
+	return temperature;
+}
+
