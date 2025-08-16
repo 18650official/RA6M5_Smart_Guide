@@ -346,13 +346,14 @@ int ApInfo_count = 0; // AP信息计数
 
 void wifi_scan()
 {
+  Serial.println("[INFO] Scanning...");
   ApInfo_count = WiFi.scanNetworks(); // 扫描Wi-Fi网络
   delay(300);
   if (ApInfo_count == 0) {
     return; // 没有找到网络
   } 
   else {
-    for (int i = 0; i < ApInfo_count; ++i) 
+    for (int i = 0; i < min(10, ApInfo_count); ++i) 
     {
       ApInfo_array[i].rssi = WiFi.RSSI(i);
       ApInfo_array[i].mac = WiFi.BSSIDstr(i);
@@ -439,8 +440,6 @@ bool get_loc_online(GpsLocation *loc)
   const char * name = rep["location"]["address"]["name"];
   const char * source = rep["location"]["position"]["source"];
   const char * spatialReference = rep["location"]["position"]["spatialReference"];
-  String full_result;
-  serializeJson(rep, full_result);
   http.end(); 
   // 将解析后的数据存储到loc结构体中
   loc->latitude = latitude;
@@ -449,8 +448,5 @@ bool get_loc_online(GpsLocation *loc)
   loc->valid = 1; // 设置有效状态
   Serial.println();
   Serial.printf("[INFO] Get Location: lat:%f, lon:%f\n", latitude, longitude);
-  Serial.println();
-  Serial.printf("The full JSON Data is:\n %s", full_result.c_str());
-  Serial.println();
   return true; // 返回true表示成功
 }

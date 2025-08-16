@@ -38,4 +38,4 @@
 
 ## 参见
 **演示视频：** [bilibili](https://www.bilibili.com/video/BV1hxGgzbE6b)
-**开发文档：** *(原始STM32项目)* [个人主页](https://snowmiku-home.top/2025/06/24/post-2025624/)
+**开发文档：** [个人主页](http://snowmiku-home.top/2025/08/15/post-2025816/)
